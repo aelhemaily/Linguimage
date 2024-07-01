@@ -30,7 +30,7 @@ function App() {
   const [autoplayEnabled, setAutoplayEnabled] = useState(true);
   const [backgroundMusicEnabled, setBackgroundMusicEnabled] = useState(true);
   const [backgroundMusicVolume, setBackgroundMusicVolume] = useState(0.2); // 20% volume
-  const [slowReplayEnabled, setSlowReplayEnabled] = useState(false);
+  const [playbackRate, setPlaybackRate] = useState(1); // Playback rate state
   const [achievementMessage, setAchievementMessage] = useState(''); // New state for achievement message
   const [buttonText, setButtonText] = useState('Start Game'); // State for button text
   const [clickedOptions, setClickedOptions] = useState([]); // New state for tracking clicked options
@@ -132,16 +132,14 @@ function App() {
     setOptionsWithImages(optionsWithImages);
 
     // Set the current audio file for the new round
+    const audioElement = new Audio(verbObject.audio);
+    audioElement.playbackRate = playbackRate; // Set the playback rate
     if (autoplayEnabled) {
-      const audioElement = new Audio(verbObject.audio);
       audioElement.play().catch(error => {
         console.error('Autoplay was prevented. Please click anywhere on the page to enable audio playback.');
       });
-      audioRef.current = audioElement;
-    } else {
-      // Ensure audioRef is updated even if autoplay is disabled
-      audioRef.current = new Audio(verbObject.audio);
     }
+    audioRef.current = audioElement;
   };
 
   const shuffleArray = (array) => {
@@ -237,9 +235,9 @@ function App() {
   };
 
   const handleSlowReplay = () => {
+    setPlaybackRate(playbackRate === 1 ? 0.5 : 1);
     if (audioRef.current) {
-      audioRef.current.playbackRate = slowReplayEnabled ? 1 : 0.5;
-      setSlowReplayEnabled(!slowReplayEnabled);
+      audioRef.current.playbackRate = playbackRate;
       audioRef.current.currentTime = 0;
       audioRef.current.play();
     }
@@ -304,8 +302,12 @@ function App() {
                 <p>Replay Verb</p>
               </div>
               <div className="menu-item">
-                <img src={turtleButton} alt="Slow Replay" onClick={handleSlowReplay} />
-                <p>Slow Replay</p>
+                <img
+                  src={turtleButton}
+                  alt="Slow Replay"
+                  onClick={handleSlowReplay}
+                />
+                <p>{playbackRate === 0.5 ? 'Slow Replay' : 'Regular Speed'}</p>
               </div>
               <div className="menu-item">
                 <img
@@ -333,7 +335,6 @@ function App() {
                   className="volume-slider"
                   onChange={adjustVolume}
                 />
-              
               </div>
             </div>
           
@@ -353,5 +354,4 @@ function App() {
   );
 }
 
-  
 export default App;
