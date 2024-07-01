@@ -1,0 +1,968 @@
+html {
+  background-color: #09011e;
+  overflow-x: hidden; /* Ensure no horizontal scroll bar */
+}
+
+body {
+  margin: 0; /* Remove default body margin */
+  overflow-x: hidden; /* Ensure no horizontal scroll bar */
+  
+}
+
+.App {
+  text-align: center;
+  min-height: 100vh; /* Ensure the App takes full viewport height */
+  overflow: hidden; /* Hide overflow to prevent scroll bars */
+  position: relative;
+  
+}
+.options button {
+  background-color: rgba(0, 0, 0, 0);
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.options {
+  position: relative;
+  bottom: 10px;
+  z-index: 1; /* Ensure options appear above other elements */
+  
+  
+}
+
+.option-image {
+  width: 30vh;
+  height: 30vh;
+  
+  
+}
+
+.option-text {
+  margin: 0;
+  color: #fff;
+  font-size: 22px;
+  
+}
+
+
+
+.achievement-popup {
+  position: fixed; /* Fix the position so it doesn't push content */
+  top: 15%; /* Adjust top position as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 5px;
+  font-size: 16px; /* Adjust font size as needed */
+  padding: 10px 20px;
+  max-width: 80%;
+  text-align: center;
+  z-index: 1000; /* Ensure it appears above other content */
+}
+
+
+
+
+.audio-menu {
+  position: fixed; /* Position it relative to the viewport */
+  bottom: 0; /* Position it at the bottom of the page */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  z-index: 50;
+  
+}
+
+
+@media (min-width: 10px) {
+  
+
+  .menu-item {
+    margin: auto;
+  
+
+  }
+
+ 
+
+/* Volume slider styles */
+.volume-slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  position: relative;
+  height: 2vh; /* Specified height */
+  background: linear-gradient(to right, #4a90e2, #50e3c2); /* Gradient background */
+  outline: none; /* Remove default outline */
+  opacity: 0.9; /* Set transparency */
+  -webkit-transition: opacity .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+  transform: rotate(270deg); /* Rotate the slider to vertical position */
+  border-radius: 12px; /* Rounded corners for the track */
+}
+
+
+
+.volume-slider {
+  margin-bottom: 5vh; /* Add space below the slider */
+}
+
+/* Custom styling for the thumb */
+.volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Remove default styles */
+  appearance: none;
+  width: 17px; /* Width of the thumb */
+  height: 17px; /* Height of the thumb */
+  background: #052c23; /* Thumb color */
+  border-radius: 50%; /* Circular thumb */
+  border: 3px solid #3772b6; /* Border color and width */
+  cursor: pointer; /* Pointer cursor on hover */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Shadow for the thumb */
+  transition: background 0.3s, transform 0.2s; /* Transition effects */
+}
+
+/* Custom thumb styling for hover */
+.volume-slider::-webkit-slider-thumb:hover {
+  background: #4a90e2; /* Change color on hover */
+  transform: scale(1.2); /* Slightly enlarge on hover */
+}
+
+/* Custom thumb styling for focus */
+.volume-slider:focus::-webkit-slider-thumb {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Enhanced shadow on focus */
+}
+
+/* For Firefox */
+.volume-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  background: #50e3c2;
+  border: 3px solid #4a90e2;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+/* Custom thumb styling for hover in Firefox */
+.volume-slider::-moz-range-thumb:hover {
+  background: #4a90e2;
+  transform: scale(1.2);
+}
+
+/* For IE and Edge */
+.volume-slider::-ms-thumb {
+  width: 20px;
+  height: 20px;
+  background: #50e3c2;
+  border: 3px solid #4a90e2;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+/* Custom thumb styling for hover in IE and Edge */
+.volume-slider::-ms-thumb:hover {
+  background: #4a90e2;
+  transform: scale(1.2);
+}
+
+
+
+  
+}
+
+.audio-menu p {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+
+.menu-item img {
+  width: 90px;
+  margin-bottom: 5px;
+}
+
+.menu-item p {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.current-verb {
+  font-weight:600;
+}
+
+.menu-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 15vh;
+  cursor: pointer;
+}
+
+.volume-control {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  position: relative;
+}
+
+.volume-slider {
+  width:10vh;
+}
+
+
+
+
+
+
+.start-button {
+  display: inline-block;
+  padding: 20px 40px;
+  font-size: 24px;
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  background: linear-gradient(45deg, #1e90ff, #00bfff, #1e90ff);
+  background-size: 400% 400%;
+  border: 2px solid #00bfff;
+  border-radius: 50px;
+  box-shadow: 0 0 20px rgba(30, 144, 255, 0.5), 0 0 40px rgba(30, 144, 255, 0.5), 0 0 60px rgba(30, 144, 255, 0.5);
+  transition: all 0.4s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  text-shadow: 0 0 10px #00bfff, 0 0 20px #00bfff, 0 0 30px #00bfff;
+  margin-top: 20vh;
+}
+
+.start-button::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+  transform: rotate(45deg);
+  transition: all 0.4s ease;
+}
+
+.start-button:hover {
+  animation: gradientShift 3s infinite;
+  box-shadow: 0 0 30px rgba(30, 144, 255, 0.7), 0 0 60px rgba(30, 144, 255, 0.7), 0 0 90px rgba(30, 144, 255, 0.7);
+}
+
+.start-button:hover::before {
+  top: -100%;
+  left: -100%;
+  width: 400%;
+  height: 400%;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+.audio-menu img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(30, 144, 255, 0.3), 0 0 20px rgba(30, 144, 255, 0.3), 0 0 30px rgba(30, 144, 255, 0.3);
+  transition: all 0.4s ease;
+  filter: brightness(1.1);
+}
+
+.audio-menu img::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1));
+  transform: rotate(45deg);
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+
+.audio-menu img:hover::before {
+  animation: shimmer 2s infinite;
+  opacity: 1;
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%) rotate(45deg);
+  }
+  100% {
+    transform: translateX(100%) rotate(45deg);
+  }
+}
+
+
+.options img {
+  border-radius: 10%;
+}
+
+.options button {
+  border: none;
+}
+
+.options button:hover {
+  cursor: pointer;
+  filter: none;
+  border-radius: 10%;
+  
+}
+
+
+.options img {
+  transition: all 0.6s ease; /* Smooth transition for hover effects */
+  border-radius: 10%; /* Apply a border radius */
+  border: 3px solid transparent; /* Initial border, transparent */
+  position: relative; /* Ensure the pseudo-element is positioned correctly */
+}
+
+.options img:hover {
+  cursor: pointer;
+  border: 3px solid rgba(255, 255, 255, 0.2); /* Subtle border with semi-transparent color */
+  transform: scale(1.02); /* Slight zoom effect */
+  box-shadow: 0 0 10px rgba(189, 189, 205, 0.5); /* Blue glow effect */
+}
+
+.option-text {
+  padding: 7px;
+  font-weight: 600;
+}
+
+
+
+.menu-item img{
+  transition: all 0.6 ease;
+}
+
+.menu-item img:hover {
+  transform: scale(1.12); /* Slightly enlarge on hover */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3), 0 0 20px rgba(30, 144, 255, 0.3), 0 0 30px rgba(255, 255, 255, 0.3);
+}
+
+
+
+
+.menu-container {
+  position: relative;
+}
+
+
+/* MEDIA QUERY SECTION  */
+
+@media (max-width: 320px) {
+  .options img {
+    width: 9vh;
+    height: 9vh;
+  }
+  
+  .options{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+  }
+  .menu-item img {
+    width: 45px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 10px;
+  }
+
+  .volume-slider {
+    width: 7vh;
+   }
+
+  
+}
+
+@media (min-width: 321) and (max-width: 345px) {
+  .options img {
+    width: 17vh;
+    height: 17vh;
+  }
+  
+  .menu-item img {
+    width: 45px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 12px;
+  }
+
+  .volume-slider {
+    width: 7vh;
+   }
+
+  
+}
+
+
+@media screen and (min-width: 346px) and (max-width: 361px) {
+  .menu-item img {
+    width: 45px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 12px;
+  }
+
+.options {
+  margin-top: 7vh;
+}
+
+  .options img {
+    width: 20vh;
+    height: 20vh;
+  
+  }
+
+  .option-text {
+    font-size: 16px;
+  }
+
+  .App-header h1 {
+    font-size: 18px;
+  }
+
+
+  .volume-control p{
+    font-size: 12px;
+    font-weight: 600;
+    
+    
+ }
+ .volume-slider {
+  width: 10vh;
+ }
+
+}
+
+@media screen and (min-width: 362px) and (max-width: 376px) {
+  .menu-item img {
+    width: 40px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 12px;
+  }
+
+  .menu-item {
+    margin-left: 6px;
+  }
+  .options img {
+    width: 20vh;
+    height: 20vh;
+  }
+
+  .App-header h1 {
+    font-size: 18px;
+  }
+
+  .volume-control p{
+    font-size: 12px;
+    font-weight: 600;
+    
+    
+ }
+
+ .volume-slider {
+  width: 10vh;
+ }
+ .options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  align-items: center;
+  position: relative;
+  
+}
+}
+
+/* MEDIA QUERY FOR SMALLEST SCREEN, MAKE TITLE SMALLER AND PUSH UP WITH RELATIVE POSITION AND MARGIN TOP % VH */
+@media screen and (min-width: 377px) and (max-width: 400px) {
+  .menu-item img {
+    width: 45px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 12px;
+  }
+
+
+  .App-header h1 {
+    font-size: 18px;
+  }
+
+  .options {
+    margin-top: 7vh;
+  }
+  
+    .options img {
+      width: 20vh;
+      height: 20vh;
+    
+    }
+ 
+   .volume-control p{
+     font-size: 12px;
+     font-weight:500;
+     
+  }
+ 
+  .volume-slider {
+    width: 10vh;
+   }
+
+   .options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    align-items: center;
+    position: relative;
+    
+  }
+
+}
+
+@media screen and (min-width: 401px) and (max-width: 811px) {
+  .App-header h1 {
+    font-size: 20px;
+  }
+  
+  .options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    align-items: center;
+    position: relative;
+    top: 5vh;
+  }
+
+  .option-image {
+    width: 20vh;
+    height: 20vh;
+  }
+
+.option-text  {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+  .menu-item img {
+    width: 50px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item p {
+    font-size: 12px;
+  }
+  .volume-control {
+     margin-bottom: 1vh;
+     
+  }
+
+  .volume-control p{
+    font-size: 14px;
+    font-weight:500;
+    
+ }
+
+  .volume-slider {
+   width: 10vh;
+  }
+}
+
+
+@media (width: 540px) {
+  .menu-item img {
+    width: 25px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+  .App-header h1 {
+    font-size: 18px; 
+  }
+
+ 
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .App-header h1 {
+    font-size: 18px;
+  }
+
+  .menu-item img {
+    width: 70px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 24vh;
+    height: 24vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 20px;
+  }
+  
+  
+
+ .volume-control p{
+   font-size: 16px;
+   font-weight:600;
+   
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 900px) and (max-width: 913px) {
+  .option-image {
+    width: 25vh;
+    height: 25vh;
+    
+    
+  }
+  
+  .option-text {
+    font-size: 25px;
+  }
+  
+
+  .menu-item img {
+    width: 80px;
+    margin-bottom: 5px;
+  }
+
+  .menu-item {
+    width: 325vh;
+    
+  }
+
+  .menu-item p{
+    font-size: 18px;
+    font-weight:600;
+    
+  }
+
+  .volume-control {
+    
+    margin-bottom: 1.5vh;
+    
+ }
+
+ .volume-control p{
+   font-size: 18px;
+   font-weight:600;
+   
+}
+
+ 
+
+}
+
+
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .App-header h1 {
+    font-size: 35px;
+  }
+
+  .menu-item img {
+    width: 50px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 30vh;
+    height: 30vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 25px;
+  }
+  
+  .volume-control p{
+    font-size: 16px;
+    font-weight:600;
+    
+ }
+
+ 
+
+
+
+.volume-slider {
+  width: 10vh;
+ }
+
+}
+
+
+
+@media screen and (min-width: 1280px) and (max-width: 1350px) {
+  
+
+.App-header h1 {
+  font-size: 35px;
+}
+
+  .menu-item img {
+    width: 40px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 30vh;
+    height: 30vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 25px;
+  }
+  .volume-control p{
+    font-size: 16px;
+    font-weight:600;
+    
+ }
+ .volume-slider {
+  width: 10vh;
+ }
+ 
+}
+
+@media screen and (min-width: 1350px) and (max-width: 1980px) {
+  .App-header h1 {
+    font-size: 28px;
+  }
+
+  .menu-item img {
+    width: 50px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 29vh;
+    height: 29vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 25px;
+  }
+  .volume-control p{
+    font-size: 16px;
+    font-weight:600;
+    
+ }
+
+ .volume-slider {
+  width: 10vh;
+ }
+
+
+}
+
+
+
+@media (width: 1024px) {
+  .App-header h1 {
+font-size: 20px;
+  }}
+
+
+
+
+
+
+
+
+
+
+@media (width: 820px) {
+  .App-header h1 {
+font-size: 20px;
+  }
+
+  .menu-item img {
+    width: 70px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 24vh;
+    height: 24vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 20px;
+  }
+  
+  .volume-control {
+    position:relative;
+    top: 2vh;
+    
+ }
+
+ .volume-control p{
+   font-size: 16px;
+   font-weight:600;
+   
+}
+
+ .volume-slider {
+   position: relative;
+   top: 0.5vh;
+ }
+
+}
+
+
+
+@media (width: 853px) {
+  .App-header h1 {
+    font-size: 20px;
+  }
+
+  .menu-item img {
+    width: 70px;
+    margin-bottom: 5px;
+  }
+
+  .option-image {
+    width: 24vh;
+    height: 24vh;
+    
+    
+  }
+
+  .option-text {
+    font-size: 20px;
+  }
+  
+  .volume-control {
+    position:relative;
+    top: 1vh;
+    
+ }
+
+ .volume-control p{
+   font-size: 16px;
+   font-weight:600;
+   
+}
+
+ .volume-slider {
+   position: relative;
+   top: 2vh;
+ }
+
+}
+
+
+
+@media (min-width: 1200px)
+{
+.audio-menu {
+  position: relative; /* Position it relative to the viewport */
+  left: 50%;
+  top: 10vh; /* Position it at the bottom of the page */
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}}
+
+@media screen and (width: 375px) and (height: 1170px) {
+  .options {
+display: flex;
+flex-direction: column;
+gap: 60px;
+margin-top: 15px;
+  }
+
+  .options img {
+    width: 10vh;
+    height: 10vh;
+  }
+
+  .audio-menu p {
+    font-size: 10px;
+  }
+}
+
+@media (width: 2560px) {
+  .audio-menu {
+    position: relative; /* Position it relative to the viewport */
+    left: 50%;
+    top:20vh;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }}
+
+  @media (width: 344px) {
+    .options img {
+      width: 14vh;
+      height: 14vh;
+    }
+  .menu-item img{
+    width:40px;
+  }
+  }

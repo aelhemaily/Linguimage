@@ -1,0 +1,20 @@
+[
+    {
+      "score": 10,
+      "message": "Congratulations! You reached 10 points!"
+    },
+    {
+      "score": 50,
+      "message": "Wow! You reached 50 points!"
+    },
+    {
+      "score": 100,
+      "message": "Amazing! You reached 100 points!"
+    },
+    {
+      "score": 200,
+      "message": "Incredible! You reached 200 points!" 
+    }
+    
+  ]
+  

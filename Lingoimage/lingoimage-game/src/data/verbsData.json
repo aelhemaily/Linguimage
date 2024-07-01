@@ -1,0 +1,4162 @@
+[
+  {
+    "spanish": "Abortar",
+    "englishCorrect": "To abort",
+    "audio": "audio/abortar.mp3",
+    "image": "images/abortar.png"
+    
+    
+  },
+  {
+    "spanish": "Abrazar",
+    "englishCorrect": "To hug",
+    "audio": "audio/abrazar.mp3",
+    "image": "images/abrazar.png",
+    "exceptions":  ["Querer", "Amar", "Encantar"]
+    
+  },
+  {
+    "spanish": "Abrir",
+    "englishCorrect": "To open",
+    "audio": "audio/abrir.mp3",
+    "image": "images/abrir.png",
+    "exceptions":  "Conseguir"
+  },
+
+  {
+    "spanish": "Aburrir(se)",
+    "englishCorrect": "To bore/be bored",
+    "audio": "audio/aburrirse.mp3",
+    "image": "images/aburrirse.png"
+  },
+
+  {
+    "spanish": "Acabar",
+    "englishCorrect": "To finish/end",
+    "audio": "audio/acabar.mp3",
+    "image": "images/acabar.png",
+    "exceptions": "Terminar"
+  },
+
+  {
+    "spanish": "Acampar",
+    "englishCorrect": "To camp",
+    "audio": "audio/acampar.mp3",
+    "image": "images/acampar.png"
+  },
+
+  {
+    "spanish": "Acariciar",
+    "englishCorrect": "To pet/caress",
+    "audio": "audio/acariciar.mp3",
+    "image": "images/acariciar.png"
+  },
+
+  {
+    "spanish": "Acelerar",
+    "englishCorrect": "To accelerate",
+    "audio": "audio/acelerar.mp3",
+    "image": "images/acelerar.png"
+  },
+
+  {
+    "spanish": "Aceptar",
+    "englishCorrect": "To accept",
+    "audio": "audio/aceptar.mp3",
+    "image": "images/aceptar.png",
+    "exceptions":  ["Presentar", "Dar", "Ofrecer", "Pedir Prestado", "Recibir", "Regalar"]
+  },
+
+  
+
+  {
+    "spanish": "Acompañar",
+    "englishCorrect": "To accompany",
+    "audio": "audio/acompanar.mp3",
+    "image": "images/acompanar.png"
+    
+  },
+
+  {
+    "spanish": "Aconsejar",
+    "englishCorrect": "To advise",
+    "audio": "audio/aconsejar.mp3",
+    "image": "images/aconsejar.png",
+    "exceptions": "Recomendar"
+    
+  },
+
+  {
+    "spanish": "Acordarse",
+    "englishCorrect": "To remember",
+    "audio": "audio/acordarse.mp3",
+    "image": "images/acordarse.png",
+    "exceptions": "Recordar"
+    
+  },
+
+  {
+    "spanish": "Acosar",
+    "englishCorrect": "To harrass",
+    "audio": "audio/acosar.mp3",
+    "image": "images/acosar.png",
+    "exceptions": ["Molestar", "Gritar", "Enfadar", "Enojar"]
+  },
+
+  {
+    "spanish": "Actuar",
+    "englishCorrect": "To act",
+    "audio": "audio/actuar.mp3",
+    "image": "images/actuar.png"
+  },
+
+  {
+    "spanish": "Acusar",
+    "englishCorrect": "To accuse",
+    "audio": "audio/acusar.mp3",
+    "image": "images/acusar.png"
+  },
+
+  {
+    "spanish": "Adivinar",
+    "englishCorrect": "To guess",
+    "audio": "audio/adivinar.mp3",
+    "image": "images/adivinar.png"
+  },
+
+  {
+    "spanish": "Admirar",
+    "englishCorrect": "To admire",
+    "audio": "audio/admirar.mp3",
+    "image": "images/admirar.png",
+    "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Enamorarse", "Adorar", "Amar", "Encantar", "Respetar"]
+  },
+
+  {
+    "spanish": "Admitir",
+    "englishCorrect": "To admit",
+    "audio": "audio/admitir.mp3",
+    "image": "images/admitir.png"
+  },
+
+   {
+    "spanish": "Adoptar",
+    "englishCorrect": "To adopt",
+    "audio": "audio/adoptar.mp3",
+    "image": "images/adoptar.png"
+  },
+
+  {
+    "spanish": "Adorar",
+    "englishCorrect": "To adore",
+    "audio": "audio/adorar.mp3",
+    "image": "images/adorar.png",
+    "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Amar", "Enamorarse", "Admirar", "Encantar", "Respetar"]
+  },
+ 
+  {
+    "spanish": "Advertir",
+    "englishCorrect": "To warn",
+    "audio": "audio/advertir.mp3",
+    "image": "images/advertir.png",
+    "exceptions": "Amonestar"
+  },
+
+  {
+    "spanish": "Afectar",
+    "englishCorrect": "To affect",
+    "audio": "audio/afectar.mp3",
+    "image": "images/afectar.png"
+  },
+
+  {
+    "spanish": "Afeitar(se)",
+    "englishCorrect": "To shave",
+    "audio": "audio/afeitarse.mp3",
+    "image": "images/afeitarse.png"
+  },
+
+  {
+    "spanish": "Agarrar",
+    "englishCorrect": "To take/hold/catch",
+    "audio": "audio/agarrar.mp3",
+    "image": "images/agarrar.png",
+    "exceptions": "Tomar"
+  },
+
+
+  {
+    "spanish": "Agitar",
+    "englishCorrect": "To shake/stir up",
+    "audio": "audio/agitar.mp3",
+    "image": "images/agitar.png",
+    "exceptions": "Sacudir"
+  },
+
+  {
+    "spanish": "Agotar(se)",
+    "englishCorrect": "To use up/run out",
+    "audio": "audio/agotarse.mp3",
+    "image": "images/agotarse.png",
+    "exceptions": "Vaciar"
+  },
+
+  {
+    "spanish": "Aguantar",
+    "englishCorrect": "To endure/put up with",
+    "audio": "audio/aguantar.mp3",
+    "image": "images/aguantar.png",
+    "exceptions": ["Sudar", "Cansar(se)", "Soportar", "Persistir"]
+  },
+
+  {
+    "spanish": "Ahogar",
+    "englishCorrect": "To drown",
+    "audio": "audio/ahogar.mp3",
+    "image": "images/ahogar.png"
+  },
+
+  {
+    "spanish": "Ahorrar",
+    "englishCorrect": "To save/economize",
+    "audio": "audio/ahorrar.mp3",
+    "image": "images/ahorrar.png",
+    "exceptions":  ["Salvar", "Rescatar", "Guardar"]
+  },
+
+  {
+    "spanish": "Alardear",
+    "englishCorrect": "To brag",
+    "audio": "audio/alardear.mp3",
+    "image": "images/alardear.png",
+    "exceptions":  ["Jactarse", "Flexionar"]
+  },
+
+  {
+    "spanish": "Alcanzar",
+    "englishCorrect": "To reach/overtake",
+    "audio": "audio/alcanzar.mp3",
+    "image": "images/alcanzar.png"
+  },
+
+  {
+    "spanish": "Alegrar(se)",
+    "englishCorrect": "To gladden/be glad",
+    "audio": "audio/alegrarse.mp3",
+    "image": "images/alegrarse.png",
+    "exceptions": ["Apreciar", "Alegrar(se)"]
+  },
+
+
+  {
+    "spanish": "Alquilar",
+    "englishCorrect": "To rent",
+    "audio": "audio/alquilar.mp3",
+    "image": "images/alquilar.png"
+  },
+
+  {
+    "spanish": "Amar",
+    "englishCorrect": "To love",
+    "audio": "audio/amar.mp3",
+    "image": "images/amar.png",
+    "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Enamorarse", "Adorar", "Admirar", "Encantar"]
+  },
+
+  {
+    "spanish": "Amonestar",
+    "englishCorrect": "To admonish/book(sports)",
+    "audio": "audio/amonestar.mp3",
+    "image": "images/amonestar.png",
+    "exceptions":  "Advertir"
+  },
+
+  {
+    "spanish": "Añadir",
+    "englishCorrect": "To add",
+    "audio": "audio/anadir.mp3",
+    "image": "images/anadir.png",
+    "exceptions":  ["Restar", "Multiplicar", "Dividir"]
+  },
+
+  {
+    "spanish": "Analizar",
+    "englishCorrect": "To analyze",
+    "audio": "audio/analizar.mp3",
+    "image": "images/analizar.png",
+    "exceptions":  "Presentar"
+  },
+
+  {
+    "spanish": "Andar",
+    "englishCorrect": "To walk/go",
+    "audio": "audio/andar.mp3",
+    "image": "images/andar.png",
+    "exceptions":  ["Ir", "Caminar", "Venir", "Marchar"]
+  },
+
+  {
+    "spanish": "Anunciar",
+    "englishCorrect": "To announce",
+    "audio": "audio/anunciar.mp3",
+    "image": "images/anunciar.png"
+  },
+
+  {
+    "spanish": "Apagar",
+    "englishCorrect": "To turn off/extinguish",
+    "audio": "audio/apagar.mp3",
+    "image": "images/apagar.png"
+  },
+
+  {
+    "spanish": "Aparecer",
+    "englishCorrect": "To appear",
+    "audio": "audio/aparecer.mp3",
+    "image": "images/aparecer.png"
+  },
+
+  {
+    "spanish": "Aplaudir",
+    "englishCorrect": "To clap",
+    "audio": "audio/aplaudir.mp3",
+    "image": "images/aplaudir.png",
+    "exceptions": "Promocionar"
+  },
+
+  {
+    "spanish": "Aplazar",
+    "englishCorrect": "To postpone",
+    "audio": "audio/aplazar.mp3",
+    "image": "images/aplazar.png",
+    "exceptions": ["Posponer","Retrasar(se)"]
+  },
+
+  {
+    "spanish": "Apoyar",
+    "englishCorrect": "To support/lean",
+    "audio": "audio/apoyar.mp3",
+    "image": "images/apoyar.png",
+    "exceptions": ["Ayudar", "Soportar", "Recostar", "Inclinar"]
+  },
+
+  {
+    "spanish": "Apreciar",
+    "englishCorrect": "To appreciate",
+    "audio": "audio/apreciar.mp3",
+    "image": "images/apreciar.png",
+    "exceptions": ["Importar", "Alegrar(se)"]
+  },
+
+  {
+    "spanish": "Aprender",
+    "englishCorrect": "To learn",
+    "audio": "audio/aprender.mp3",
+    "image": "images/aprender.png",
+    "exceptions": ["Enseñar", "Explicar"]
+  },
+
+  {
+    "spanish": "Apretar",
+    "englishCorrect": "To tighten/squeeze",
+    "audio": "audio/apretar.mp3",
+    "image": "images/apretar.png",
+    "exceptions": "Exprimir"
+
+  },
+
+  {
+    "spanish": "Aprobar",
+    "englishCorrect": "To pass(test)/approve",
+    "audio": "audio/aprobar.mp3",
+    "image": "images/aprobar.png"
+  },
+
+  {
+    "spanish": "Arrancar",
+    "englishCorrect": "To tear out/start(vehicle)",
+    "audio": "audio/arrancar.mp3",
+    "image": "images/arrancar.png"
+  },
+
+  {
+    "spanish": "Arreglar",
+    "englishCorrect": "To fix",
+    "audio": "audio/arreglar.mp3",
+    "image": "images/arreglar.png"
+  },
+
+  {
+    "spanish": "Arrepentirse",
+    "englishCorrect": "To regret",
+    "audio": "audio/arrepentirse.mp3",
+    "image": "images/arrepentirse.png",
+    "exceptions": ["Molestar", "Gritar", "Enfadar", "Enojar", "Lamentar"]
+  },
+
+  {
+    "spanish": "Arrestar",
+    "englishCorrect": "To arrest",
+    "audio": "audio/arrestar.mp3",
+    "image": "images/arrestar.png",
+    "exceptions": "Esposar"
+  },
+
+  {
+    "spanish": "Arrojar",
+    "englishCorrect": "To throw/hurl",
+    "audio": "audio/arrojar.mp3",
+    "image": "images/arrojar.png",
+    "exceptions": ["Echar", "Lanzar", "Tirar" ]
+  },
+
+  {
+    "spanish": "Asar",
+    "englishCorrect": "To grill",
+    "audio": "audio/asar.mp3",
+    "image": "images/asar.png"
+  },
+
+  {
+    "spanish": "Asistir",
+    "englishCorrect": "To attend/assist",
+    "audio": "audio/asistir.mp3",
+    "image": "images/asistir.png"
+  },
+
+  {
+    "spanish": "Asustar(se)",
+    "englishCorrect": "To scare/be scared",
+    "audio": "audio/asustarse.mp3",
+    "image": "images/asustarse.png",
+    "exceptions": "Temer"
+  },
+
+  {
+    "spanish": "Atacar",
+    "englishCorrect": "To attack",
+    "audio": "audio/atacar.mp3",
+    "image": "images/atacar.png",
+    "exceptions": ["Pelear", "Luchar", "invadir"]
+  },
+
+
+  {
+    "spanish": "Atar",
+    "englishCorrect": "To tie",
+    "audio": "audio/atar.mp3",
+    "image": "images/atar.png",
+    "exceptions": "Probar"
+  },
+
+  {
+    "spanish": "Atormentar",
+    "englishCorrect": "To torture/torment",
+    "audio": "audio/atormentar.mp3",
+    "image": "images/atormentar.png",
+    "exceptions": "Torturar"
+  },
+
+  {
+    "spanish": "Atraer",
+    "englishCorrect": "To attract",
+    "audio": "audio/atraer.mp3",
+    "image": "images/atraer.png"
+  },
+
+  {
+    "spanish": "Atrapar",
+    "englishCorrect": "To catch",
+    "audio": "audio/atrapar.mp3",
+    "image": "images/atrapar.png",
+    "exceptions": "Pescar"
+  },
+
+  {
+    "spanish": "Atreverse",
+    "englishCorrect": "To dare",
+    "audio": "audio/atreverse.mp3",
+    "image": "images/atreverse.png",
+    "exceptions": ["Osar", "Saltar"]
+  },
+
+  {
+    "spanish": "Aullar",
+    "englishCorrect": "To howl",
+    "audio": "audio/aullar.mp3",
+    "image": "images/aullar.png",
+    "exceptions": "Gritar"
+  },
+
+  {
+    "spanish": "Avergonzar(se)",
+    "englishCorrect": "To embarrass",
+    "audio": "audio/avergonzarse.mp3",
+    "image": "images/avergonzarse.png",
+    "exceptions": "Gritar"
+  },
+
+  {
+    "spanish": "Ayudar",
+    "englishCorrect": "To help",
+    "audio": "audio/ayudar.mp3",
+    "image": "images/ayudar.png",
+    "exceptions": ["Socorrer", "Soportar", "Cruzar"]
+  },
+
+  {
+    "spanish": "Bailar",
+    "englishCorrect": "To dance",
+    "audio": "audio/bailar.mp3",
+    "image": "images/bailar.png"
+  },
+  
+  {
+    "spanish": "Balancear",
+    "englishCorrect": "To swing",
+    "audio": "audio/balancear.mp3",
+    "image": "images/balancear.png",
+    "exceptions": "Oscilar"
+  },
+
+
+  {
+    "spanish": "Bañar",
+    "englishCorrect": "To bathe",
+    "audio": "audio/banar.mp3",
+    "image": "images/banar.png",
+    "exceptions": "Lavar"
+  },
+
+  {
+    "spanish": "Barrer",
+    "englishCorrect": "To sweep",
+    "audio": "audio/barrer.mp3",
+    "image": "images/barrer.png",
+    "exceptions": ["Lavar","Limpiar"]
+  },
+
+  {
+    "spanish": "Bastar",
+    "englishCorrect": "To suffice/be enough",
+    "audio": "audio/bastar.mp3",
+    "image": "images/bastar.png"
+  },
+
+  {
+    "spanish": "Bautizar",
+    "englishCorrect": "To baptize",
+    "audio": "audio/bautizar.mp3",
+    "image": "images/bautizar.png",
+    "exceptions": "Ahogar"
+  },
+
+  {
+    "spanish": "Beber",
+    "englishCorrect": "To drink",
+    "audio": "audio/beber.mp3",
+    "image": "images/beber.png",
+    "exceptions":  ["Tomar", "Tragar", "Descansar"]
+  },
+
+  {
+    "spanish": "Bendecir",
+    "englishCorrect": "To bless",
+    "audio": "audio/bendecir.mp3",
+    "image": "images/bendecir.png"
+  },
+
+  {
+    "spanish": "Besar",
+    "englishCorrect": "To kiss",
+    "audio": "audio/besar.mp3",
+    "image": "images/besar.png",
+    "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Amar", "Enamorarse", "Adorar", "Admirar", "Encantar"]
+  },
+
+  {
+    "spanish": "Bloquear",
+    "englishCorrect": "To block",
+    "audio": "audio/bloquear.mp3",
+    "image": "images/bloquear.png",
+    "exceptions": ["Parar","Impedir"]
+  },
+
+  {
+    "spanish": "Borrar",
+    "englishCorrect": "To erase/delete",
+    "audio": "audio/borrar.mp3",
+    "image": "images/borrar.png",
+    "exceptions": ["Tachar", "Quitar", "Suprimir"]
+  },
+
+  {
+    "spanish": "Bostezar",
+    "englishCorrect": "To yawn/gape",
+    "audio": "audio/bostezar.mp3",
+    "image": "images/bostezar.png",
+    "exceptions":  "Maullar"
+  },
+
+  {
+    "spanish": "Boxear",
+    "englishCorrect": "To box",
+    "audio": "audio/boxear.mp3",
+    "image": "images/boxear.png",
+    "exceptions": ["Pelear", "Luchar", "Practicar"]
+  },
+
+  {
+    "spanish": "Brillar",
+    "audio": "audio/brillar.mp3",
+    "englishCorrect": "To shine",
+    "image": "images/brillar.png"
+  },
+
+  {
+    "spanish": "Bucear",
+    "englishCorrect": "To dive",
+    "audio": "audio/bucear.mp3",
+    "image": "images/bucear.png",
+    "exceptions":  "Nadar"
+  },
+
+  {
+    "spanish": "Buscar",
+    "englishCorrect": "To search for",
+    "audio": "audio/buscar.mp3",
+    "image": "images/buscar.png"
+  },
+
+  {
+    "spanish": "Caer",
+    "englishCorrect": "To fall",
+    "audio": "audio/caer.mp3",
+    "image": "images/caer.png"
+  },
+
+  {
+    "spanish": "Calentar",
+    "englishCorrect": "To warm up",
+    "audio": "audio/calentar.mp3",
+    "image": "images/calentar.png",
+    "exceptions":  "Estirar"
+
+  },
+
+  {
+    "spanish": "Callar(se)",
+    "englishCorrect": "To silence/be quiet",
+    "audio": "audio/callarse.mp3",
+    "image": "images/callarse.png"
+  },
+
+  {
+    "spanish": "Cambiar",
+    "englishCorrect": "To change",
+    "audio": "audio/cambiar.mp3",
+    "image": "images/cambiar.png"
+  },
+
+  {
+    "spanish": "Caminar",
+    "englishCorrect": "To walk",
+    "audio": "audio/caminar.mp3",
+    "image": "images/caminar.png",
+    "exceptions":  ["Pasear/Dar un paseo", "Ir", "Andar", "Marchar"]
+  },
+
+  {
+    "spanish": "Cancelar",
+    "englishCorrect": "To cancel",
+    "audio": "audio/cancelar.mp3",
+    "image": "images/cancelar.png"
+  },
+
+  {
+    "spanish": "Cansar(se)",
+    "englishCorrect": "To tire/get tired",
+    "audio": "audio/cansarse.mp3",
+    "image": "images/cansarse.png",
+     "exceptions": ["Sudar", "Aguantar", "Soportar", "Persistir"]
+  },
+
+  {
+    "spanish": "Cantar",
+    "englishCorrect": "To sing",
+    "audio": "audio/cantar.mp3",
+    "image": "images/cantar.png"
+  },
+
+
+  {
+    "spanish": "Cargar",
+    "englishCorrect": "To charge/load",
+    "audio": "audio/cargar.mp3",
+    "image": "images/cargar.png"
+  },
+
+  {
+    "spanish": "Casarse",
+    "englishCorrect": "To get married",
+    "audio": "audio/casarse.mp3",
+    "image": "images/casarse.png",
+    "exceptions":  ["Querer", "Amar", "Invitar", "Enamorarse", "Adorar", "Admirar", "Encantar"]
+  },
+
+  {
+    "spanish": "Cavar",
+    "englishCorrect": "To dig",
+    "audio": "audio/cavar.mp3",
+    "image": "images/cavar.png",
+    "exceptions":  "Enterrar"
+  },
+
+  {
+    "spanish": "Celebrar",
+    "englishCorrect": "To celebrate",
+    "audio": "audio/celebrar.mp3",
+    "image": "images/celebrar.png",
+    "exceptions": ["Conseguir", "Cumplir", "Festejar", "Felicitar"]
+  },
+
+  {
+    "spanish": "Cepillar(se)",
+    "englishCorrect": "To brush",
+    "audio": "audio/cepillarse.mp3",
+    "image": "images/cepillarse.png"
+  },
+
+  {
+    "spanish": "Cerrar",
+    "englishCorrect": "To close",
+    "audio": "audio/cerrar.mp3",
+    "image": "images/cerrar.png",
+    "exceptions": "Jalar"
+  },
+
+  {
+    "spanish": "Chocar (con)",
+    "englishCorrect": "To crash/bump into",
+    "audio": "audio/chocar_con.mp3",
+    "image": "images/chocar_con.png"
+  },
+
+  {
+    "spanish": "Chupar",
+    "englishCorrect": "To suck",
+    "audio": "audio/chupar.mp3",
+    "image": "images/chupar.png",
+    "exceptions": "Comer"
+  },
+
+  {
+    "spanish": "Cocinar",
+    "englishCorrect": "To cook",
+    "audio": "audio/cocinar.mp3",
+    "image": "images/cocinar.png",
+    "exceptions": ["Cortar","Hornear", "Freír", "Asar", "Hervir"]
+  },
+
+  {
+    "spanish": "Colgar",
+    "englishCorrect": "To hang",
+    "audio": "audio/colgar.mp3",
+    "image": "images/colgar.png"
+  },
+
+  {
+    "spanish": "Colmar",
+    "englishCorrect": "To fill up/shower sb. with",
+    "audio": "audio/colmar.mp3",
+    "image": "images/colmar.png",
+    "exceptions": ["Verter", "Rebosar"]
+  },
+
+  {
+    "spanish": "Comenzar",
+    "englishCorrect": "To start",
+    "audio": "audio/comenzar.mp3",
+    "image": "images/comenzar.png",
+    "exceptions": "Empezar"
+  },
+
+  {
+    "spanish": "Compartir",
+    "englishCorrect": "To share",
+    "audio": "audio/compartir.mp3",
+    "image": "images/compartir.png",
+    "exceptions": ["Dar", "Tomar", "Ofrecer"]
+  },
+
+
+  {
+    "spanish": "Comprar",
+    "englishCorrect": "To buy",
+    "audio": "audio/comprar.mp3",
+    "image": "images/comprar.png",
+    "exceptions": ["Convencer", "Vender"]
+  },
+
+  {
+    "spanish": "Comprender",
+    "englishCorrect": "To understand",
+    "audio": "audio/comprender.mp3",
+    "image": "images/comprender.png",
+    "exceptions": ["Entender", "Explicar"]
+  },
+
+  {
+    "spanish": "Concentrar(se)",
+    "englishCorrect": "To concentrate",
+    "audio": "audio/concentrarse.mp3",
+    "image": "images/concentrarse.png"
+  },
+
+  {
+    "spanish": "Conducir",
+    "englishCorrect": "To conduct/drive",
+    "audio": "audio/conducir.mp3",
+    "image": "images/conducir.png",
+    "exceptions": "Manejar"
+  },
+
+  {
+    "spanish": "Confesar",
+    "englishCorrect": "To confess",
+    "audio": "audio/confesar.mp3",
+    "image": "images/confesar.png",
+    "exceptions": ["Arrestar", "Esposar"]
+  },
+
+  {
+    "spanish": "Confiar",
+    "englishCorrect": "To trust",
+    "audio": "audio/confiar.mp3",
+    "image": "images/confiar.png"
+  },
+
+  {
+    "spanish": "Conformar",
+    "englishCorrect": "To make up/shape",
+    "audio": "audio/conformar.mp3",
+    "image": "images/conformar.png",
+    "exceptions": "Formar"
+  },
+
+  {
+    "spanish": "Congelar",
+    "englishCorrect": "To freeze",
+    "audio": "audio/congelar.mp3",
+    "image": "images/congelar.png",
+    "exceptions": "Helar(se)"
+  },
+
+  {
+    "spanish": "Conocer",
+    "englishCorrect": "To know/meet",
+    "audio": "audio/conocer.mp3",
+    "image": "images/conocer.png"
+  },
+
+  {
+    "spanish": "Conquistar",
+    "englishCorrect": "To conquer/win over",
+    "audio": "audio/conquistar.mp3",
+    "image": "images/conquistar.png",
+    "exceptions": "Invadir"
+
+  },
+
+  {
+    "spanish": "Conseguir",
+    "englishCorrect": "To get/accomplish",
+    "audio": "audio/conseguir.mp3",
+    "image": "images/conseguir.png",
+    "exceptions": ["Ganar", "Lograr", "Realizar", "Abrir"]
+  },
+
+  {
+    "spanish": "Considerar",
+    "englishCorrect": "To consider",
+    "audio": "audio/considerar.mp3",
+    "image": "images/considerar.png"
+  },
+
+  {
+    "spanish": "Construir",
+    "englishCorrect": "To build",
+    "audio": "audio/construir.mp3",
+    "image": "images/construir.png"
+  },
+
+    {
+      "spanish": "Contar",
+      "englishCorrect": "To count/tell",
+      "audio": "audio/contar.mp3",
+      "image": "images/contar.png",
+      "exceptions": ["Hablar", "Traducir", "Discutir", "Mencionar", "Decir"]
+    },
+
+    {
+      "spanish": "Contener",
+      "englishCorrect": "To contain",
+      "audio": "audio/contener.mp3",
+      "image": "images/contener.png"
+    },
+
+
+    {
+      "spanish": "Contestar",
+      "englishCorrect": "To answer",
+      "audio": "audio/contestar.mp3",
+      "image": "images/contestar.png",
+       "exceptions": "Participar"
+    },
+
+    {
+      "spanish": "Continuar",
+      "englishCorrect": "To continue",
+      "audio": "audio/continuar.mp3",
+      "image": "images/continuar.png"
+    },
+
+    {
+      "spanish": "Convencer",
+      "englishCorrect": "To convince",
+      "audio": "audio/convencer.mp3",
+      "image": "images/convencer.png"
+    },
+
+    {
+      "spanish": "Convertir",
+      "englishCorrect": "To convert",
+      "audio": "audio/convertir.mp3",
+      "image": "images/convertir.png"
+    },
+
+    {
+      "spanish": "Convocar",
+      "englishCorrect": "To summon",
+      "audio": "audio/convocar.mp3",
+      "image": "images/convocar.png"
+    },
+
+    {
+      "spanish": "Copiar",
+      "englishCorrect": "To copy",
+      "audio": "audio/copiar.mp3",
+      "image": "images/copiar.png",
+      "exceptions": "imprimir"
+    },
+
+    {
+      "spanish": "Corregir",
+      "englishCorrect": "To correct",
+      "audio": "audio/corregir.mp3",
+      "image": "images/corregir.png"
+    },
+
+    {
+        "spanish": "Correr",
+        "englishCorrect": "To run",
+        "audio": "audio/correr.mp3",
+        "image": "images/correr.png"
+      },
+
+      {
+        "spanish": "Cortar",
+        "englishCorrect": "To cut",
+        "audio": "audio/cortar.mp3",
+        "image": "images/cortar.png",
+        "exceptions": "Cocinar"
+      },
+
+      {
+        "spanish": "Cosechar",
+        "englishCorrect": "To harvest",
+        "audio": "audio/cosechar.mp3",
+        "image": "images/cosechar.png"
+      },
+
+      {
+        "spanish": "Costar",
+        "englishCorrect": "To cost",
+        "audio": "audio/costar.mp3",
+        "image": "images/costar.png",
+         "exceptions": "Valer"
+      },
+
+      {
+        "spanish": "Crear",
+        "englishCorrect": "To create",
+        "audio": "audio/crear.mp3",
+        "image": "images/crear.png"
+      },
+
+      {
+        "spanish": "Crecer",
+        "englishCorrect": "To grow",
+        "audio": "audio/crecer.mp3",
+        "image": "images/crecer.png"
+      },
+
+
+      {
+        "spanish": "Creer",
+        "englishCorrect": "To believe",
+        "audio": "audio/creer.mp3",
+        "image": "images/creer.png",
+        "exceptions": ["Pensar","Rezar", "Rogar"]
+      },
+
+      {
+        "spanish": "Cruzar",
+        "englishCorrect": "To cross",
+        "audio": "audio/cruzar.mp3",
+        "image": "images/cruzar.png",
+        "exceptions": ["Ayudar","Osar"]
+      },
+
+      {
+        "spanish": "Cuidar(se)",
+        "englishCorrect": "To take care",
+        "audio": "audio/cuidarse.mp3",
+        "image": "images/cuidarse.png"
+      },
+
+      {
+        "spanish": "Cumplir",
+        "englishCorrect": "To achieve/turn (age)",
+        "image": "images/cumplir.png",
+        "audio": "audio/cumplir.mp3",
+        "exceptions": ["Conseguir", "Celebrar", "Festejar", "Felicitar"]
+      },
+
+      {
+        "spanish": "Dar",
+        "englishCorrect": "To give",
+        "audio": "audio/dar.mp3",
+        "image": "images/dar.png",
+        "exceptions": ["Pedir Prestado", "Aceptar", "Ofrecer", "Regalar", "Compartir"]
+      },
+
+      {
+        "spanish": "Deber",
+        "englishCorrect": "To owe/should",
+        "audio": "audio/deber.mp3",
+        "image": "images/deber.png",
+        "exceptions": "Necesitar"
+      },
+
+      {
+        "spanish": "Decidir",
+        "englishCorrect": "To decide",
+        "audio": "audio/decidir.mp3",
+        "image": "images/decidir.png"
+      },
+
+      {
+        "spanish": "Decir",
+        "englishCorrect": "To say/tell",
+        "audio": "audio/decir.mp3",
+        "image": "images/decir.png",
+        "exceptions": ["Hablar", "Traducir", "Discutir", "Mencionar", "Contar"]
+      },
+
+      {
+        "spanish": "Dejar",
+        "englishCorrect": "To leave(sth/sb)/allow",
+        "audio": "audio/dejar.mp3",
+        "image": "images/dejar.png",
+        "exceptions": "Permitir"
+      },
+      
+      {
+        "spanish": "Derrapar",
+        "englishCorrect": "To skid",
+        "audio": "audio/derrapar.mp3",
+        "image": "images/derrapar.png",
+        "exceptions": "Resbalar"
+      },
+
+      {
+        "spanish": "Derretir(se)",
+        "englishCorrect": "To melt",
+        "audio": "audio/derretirse.mp3",
+        "image": "images/derretirse.png"
+        
+      },
+
+      {
+        "spanish": "Derrotar",
+        "englishCorrect": "To defeat",
+        "audio": "audio/derrotar.mp3",
+        "image": "images/derrotar.png",
+        "exceptions": ["Dominar", "Ganar"]
+      },
+
+      {
+        "spanish": "Desaparecer",
+        "englishCorrect": "To disappear",
+        "audio": "audio/desaparecer.mp3",
+        "image": "images/desaparecer.png"
+      },
+
+      {
+        "spanish": "Descansar",
+        "englishCorrect": "To rest/relax",
+        "audio": "audio/descansar.mp3",
+        "image": "images/descansar.png",
+        "exceptions": ["Tragar","Beber", "Tomar", "Chupar"]
+      },
+
+      {
+        "spanish": "Descargar",
+        "englishCorrect": "To download/unload",
+        "audio": "audio/descargar.mp3",
+        "image": "images/descargar.png"
+      },
+
+      {
+        "spanish": "Describir",
+        "englishCorrect": "To describe",
+        "audio": "audio/describir.mp3",
+        "image": "images/describir.png",
+        "exceptions": "Mostrar"
+      },
+
+      {
+        "spanish": "Descubrir",
+        "englishCorrect": "To discover",
+        "audio": "audio/descubrir.mp3",
+        "image": "images/descubrir.png"
+      },
+
+      {
+        "spanish": "Desear",
+        "englishCorrect": "To wish",
+        "audio": "audio/desear.mp3",
+        "image": "images/desear.png"
+      },
+
+      {
+        "spanish": "Deshacer",
+        "englishCorrect": "To undo/unpack",
+        "audio": "audio/deshacer.mp3",
+        "image": "images/deshacer.png"
+      },
+
+      {
+        "spanish": "Deslizarse",
+        "englishCorrect": "To slide",
+        "audio": "audio/deslizarse.mp3",
+        "image": "images/deslizarse.png",
+        "exceptions": "Jugar"
+      },
+
+      {
+        "spanish": "Desmayarse",
+        "englishCorrect": "To pass out",
+        "audio": "audio/desmayarse.mp3",
+        "image": "images/desmayarse.png"
+      },
+
+      {
+        "spanish": "Despedir",
+        "englishCorrect": "To fire/dismiss",
+        "audio": "audio/despedir.mp3",
+        "image": "images/despedir.png"
+      
+      },
+
+      {
+        "spanish": "Despedirse de",
+        "englishCorrect": "To say goodbye to",
+        "audio": "audio/despedirse.mp3",
+        "image": "images/despedirse.png",
+        "exceptions": "Saludar"
+      
+      },
+
+      {
+        "spanish": "Desperdiciar",
+        "englishCorrect": "To waste/throw away",
+        "audio": "audio/desperdiciar.mp3",
+        "image": "images/desperdiciar.png"
+      },
+
+      {
+        "spanish": "Despertar",
+        "englishCorrect": "To wake",
+        "audio": "audio/despertar.mp3",
+        "image": "images/despertar.png",
+        "exceptions": "Levantar(se)"
+      },
+
+   
+    {
+      "spanish": "Despreciar",
+      "englishCorrect": "To despise",
+      "audio": "audio/despreciar.mp3",
+      "image": "images/despreciar.png",
+      "exceptions": "Odiar"
+    },
+
+      {
+        "spanish": "Destruir",
+        "englishCorrect": "To destroy",
+        "audio": "audio/destruir.mp3",
+        "image": "images/destruir.png",
+        "exceptions": "Levantar(se)"
+      },
+
+
+      {
+        "spanish": "Devolver",
+        "englishCorrect": "To give back/return sth.",
+        "audio": "audio/devolver.mp3",
+        "image": "images/devolver.png",
+        "exceptions": ["Volver", "Regresar"]
+        
+      },
+
+      {
+        "spanish": "Dibujar",
+        "englishCorrect": "To draw",
+        "audio": "audio/dibujar.mp3",
+        "image": "images/dibujar.png",
+        "exceptions": "Pintar"
+      },
+      
+      {
+        "spanish": "Dirigir",
+        "englishCorrect": "To direct",
+        "audio": "audio/dirigir.mp3",
+        "image": "images/dirigir.png",
+        "exceptions": ["Guiar", "Gobernar"]
+      },
+
+      {
+        "spanish": "Disculparse",
+        "englishCorrect": "To apologize",
+        "audio": "audio/disculparse.mp3",
+        "image": "images/disculparse.png"
+      },
+
+      {
+        "spanish": "Discutir",
+        "englishCorrect": "To discuss",
+        "audio": "audio/discutir.mp3",
+        "image": "images/discutir.png",
+        "exceptions": ["Hablar", "Decir", "Oponer"]
+      },
+
+      {
+        "spanish": "Disfrutar",
+        "englishCorrect": "To enjoy",
+        "audio": "audio/disfrutar.mp3",
+        "image": "images/disfrutar.png",
+        "exceptions": ["Gozar", "Sonreír", "Reír", "Divertir(se)"]
+      },
+
+      {
+        "spanish": "Disparar",
+        "englishCorrect": "To shoot",
+        "audio": "audio/disparar.mp3",
+        "image": "images/disparar.png",
+        "exceptions": ["Pasar", "Matar", "Tirar", "Lanzar", "Echar"]
+      
+      }, 
+
+      {
+        "spanish": "Distraer",
+        "englishCorrect": "To distract",
+        "audio": "audio/distraer.mp3",
+        "image": "images/distraer.png"
+      },
+     
+      {
+        "spanish": "Divertir(se)",
+        "englishCorrect": "To entertain/have fun",
+        "audio": "audio/divertirse.mp3",
+        "image": "images/divertirse.png",
+        "exceptions": ["Disfrutar", "Sonreír", "Reír","Gozar"]
+      },
+
+      {
+        "spanish": "Dividir",
+        "englishCorrect": "To divide",
+        "audio": "audio/dividir.mp3",
+        "image": "images/dividir.png",
+        "exceptions":  ["Añadir", "Multiplicar", "Restar"]
+      },
+
+      {
+        "spanish": "Divorciar",
+        "englishCorrect": "To divorce",
+        "audio": "audio/divorciar.mp3",
+        "image": "images/divorciar.png"
+      },
+
+      {
+        "spanish": "Doler",
+        "englishCorrect": "To hurt/pain",
+        "audio": "audio/doler.mp3",
+        "image": "images/doler.png",
+        "exceptions": ["Lastimar", "Herir"]
+      },
+
+      {
+        "spanish": "Dominar",
+        "englishCorrect": "To master/dominate",
+        "audio": "audio/dominar.mp3",
+        "image": "images/dominar.png",
+        "exceptions": ["Derrotar", "Ganar"]
+      },
+
+      {
+        "spanish": "Dormir",
+        "englishCorrect": "To sleep",
+        "audio": "audio/dormir.mp3",
+        "image": "images/dormir.png",
+        "exceptions": "Soñar"
+      },
+
+      {
+        "spanish": "Dudar",
+        "englishCorrect": "To doubt",
+        "audio": "audio/dudar.mp3",
+        "image": "images/dudar.png"
+      },
+
+      {
+        "spanish": "Echar",
+        "englishCorrect": "To throw/expel",
+        "audio": "audio/echar.mp3",
+        "image": "images/echar.png",
+        "exceptions": ["Arrojar", "Lanzar", "Tirar"]
+      },
+
+      {
+        "spanish": "Ejercitar",
+        "englishCorrect": "To exercise",
+        "audio": "audio/ejercitar.mp3",
+        "image": "images/ejercitar.png",
+        "exceptions": "Levantar(se)"
+      },
+
+      {
+        "spanish": "Elegir",
+        "englishCorrect": "To choose",
+        "audio": "audio/elegir.mp3",
+        "image": "images/elegir.png",
+        "exceptions": "Escoger"
+      },
+
+      {
+        "spanish": "Eliminar",
+        "englishCorrect": "To eliminate",
+        "audio": "audio/eliminar.mp3",
+        "image": "images/eliminar.png"
+      },
+
+      {
+        "spanish": "Elogiar",
+        "englishCorrect": "To praise",
+        "audio": "audio/elogiar.mp3",
+        "image": "images/elogiar.png"
+      },
+
+      {
+        "spanish": "Empeorar",
+        "englishCorrect": "To worsen/detoriorate",
+        "audio": "audio/empeorar.mp3",
+        "image": "images/empeorar.png"
+      },
+
+      {
+        "spanish": "Empezar",
+        "englishCorrect": "To start",
+        "audio": "audio/empezar.mp3",
+        "image": "images/empezar.png",
+        "exceptions": "Comenzar"
+      },
+
+      {
+        "spanish": "Empujar",
+        "englishCorrect": "To push",
+        "audio": "audio/empujar.mp3",
+        "image": "images/empujar.png",
+        "exceptions": "Poder"
+      },
+
+      {
+        "spanish": "Enamorarse",
+        "englishCorrect": "To fall in love",
+        "audio": "audio/enamorarse.mp3",
+        "image": "images/enamorarse.png",
+        "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Amar", "Encantar", "Adorar", "Admirar"]
+      },
+
+      {
+        "spanish": "Encantar",
+        "englishCorrect": "To love/enchant",
+        "audio": "audio/encantar.mp3",
+        "image": "images/encantar.png",
+        "exceptions":  ["Querer", "Abrazar", "Casarse", "Extrañar", "Amar", "Adorar", "Admirar"]
+      },
+
+      {
+        "spanish": "Encarcelar",
+        "englishCorrect": "To imprison",
+        "audio": "audio/encarcelar.mp3",
+        "image": "images/encarcelar.png",
+        "exceptions": "Llorar"
+      },
+
+      {
+        "spanish": "Encontrar",
+        "englishCorrect": "To find",
+        "audio": "audio/encontrar.mp3",
+        "image": "images/encontrar.png",
+         "exceptions": ["Hallar", "Encontrarse"]
+      },
+
+      {
+        "spanish": "Encontrarse",
+        "englishCorrect": "To meet",
+        "audio": "audio/encontrarse.mp3",
+        "image": "images/encontrarse.png",
+        "exceptions": ["Encontrar", "Hallar"]
+      },
+
+      {
+        "spanish": "Enfadar",
+        "englishCorrect": "To anger/annoy/offend",
+        "audio": "audio/enfadar.mp3",
+        "image": "images/enfadar.png",
+        "exceptions": ["Molestar", "Gritar", "Acosar", "Enojar"]
+      },
+
+      {
+        "spanish": "Engañar",
+        "englishCorrect": "deceive/cheat on",
+        "audio": "audio/enganar.mp3",
+        "image": "images/enganar.png",
+        "exceptions": ["Hacer trampa", "Traicionar"]
+      },
+
+
+      {
+        "spanish": "Enojar",
+        "englishCorrect": "To anger/annoy",
+        "audio": "audio/enojar.mp3",
+        "image": "images/enojar.png",
+        "exceptions": ["Molestar", "Gritar", "Acosar", "Enfadar"]
+      },
+
+      {
+        "spanish": "Enseñar",
+        "englishCorrect": "To teach",
+        "audio": "audio/ensenar.mp3",
+        "image": "images/ensenar.png",
+        "exceptions":  ["Aprender", "Explicar"]
+      },
+
+      {
+        "spanish": "Entender",
+        "englishCorrect": "To understand",
+        "audio": "audio/entender.mp3",
+        "image": "images/entender.png",
+        "exceptions": ["Comprender", "Explicar"]
+      },
+
+      {
+        "spanish": "Enterrar",
+        "englishCorrect": "To bury",
+        "audio": "audio/enterrar.mp3",
+        "image": "images/enterrar.png",
+        "exceptions":  "Cavar"
+      },
+    
+
+      {
+        "spanish": "Entrar",
+        "englishCorrect": "To enter",
+        "audio": "audio/entrar.mp3",
+        "image": "images/entrar.png"
+      },
+
+      {
+        "spanish": "Entregar",
+        "englishCorrect": "To hand out/deliver",
+        "audio": "audio/entregar.mp3",
+        "image": "images/entregar.png",
+        "exceptions": "Repartir"
+        
+      },
+
+      {
+        "spanish": "Envejecer",
+        "englishCorrect": "To age/grow old",
+        "audio": "audio/envejecer.mp3",
+        "image": "images/envejecer.png"
+      },
+
+      {
+        "spanish": "Enviar",
+        "englishCorrect": "To send",
+        "audio": "audio/enviar.mp3",
+        "image": "images/enviar.png",
+        "exceptions":  "Mandar"
+      },
+
+      {
+        "spanish": "Equilibrar",
+        "englishCorrect": "To balance",
+        "audio": "audio/equilibrar.mp3",
+        "image": "images/equilibrar.png"
+      },
+
+      {
+        "spanish": "Eructar",
+        "englishCorrect": "To burp",
+        "audio": "audio/eructar.mp3",
+        "image": "images/eructar.png",
+        "exceptions": ["Tomar","Beber", "Descansar", "Chupar"]
+      },
+
+      {
+        "spanish": "Escalar",
+        "englishCorrect": "To climb/escalate",
+        "audio": "audio/escalar.mp3",
+        "image": "images/escalar.png",
+        "exceptions": ["Tepar","Subir"]
+      },
+
+      {
+        "spanish": "Escapar",
+        "englishCorrect": "To escape",
+        "audio": "audio/escapar.mp3",
+        "image": "images/escapar.png",
+        "exceptions":  "Huir"
+      },
+
+      {
+        "spanish": "Escoger",
+        "englishCorrect": "To pick/choose",
+        "audio": "audio/escoger.mp3",
+        "image": "images/escoger.png",
+        "exceptions": ["Elegir","Jugar"]
+      },
+
+      {
+        "spanish": "Esconder",
+        "englishCorrect": "To hide",
+        "audio": "audio/esconder.mp3",
+        "image": "images/esconder.png",
+        "exceptions":  "Ocultar"
+      },
+
+      {
+        "spanish": "Escribir",
+        "englishCorrect": "To write",
+        "audio": "audio/escribir.mp3",
+        "image": "images/escribir.png",
+        "exceptions": ["Imaginar","Leer"]
+      },
+
+      {
+        "spanish": "Esperar",
+        "englishCorrect": "To wait/hope",
+        "audio": "audio/esperar.mp3",
+        "image": "images/esperar.png"
+      },
+
+      {
+        "spanish": "Espiar",
+        "englishCorrect": "To spy",
+        "audio": "audio/espiar.mp3",
+        "image": "images/espiar.png",
+        "exceptions": "Seguir"
+      },
+
+      {
+        "spanish": "Esposar",
+        "englishCorrect": "To handcuff",
+        "audio": "audio/esposar.mp3",
+        "image": "images/esposar.png",
+        "exceptions": ["Arrestar", "Confesar"]
+      },
+
+      {
+        "spanish": "Esquiar",
+        "englishCorrect": "To ski",
+        "audio": "audio/esquiar.mp3",
+        "image": "images/esquiar.png",
+        "exceptions": "Patinar"
+      },
+
+      {
+        "spanish": "Esquivar",
+        "englishCorrect": "To dodge/avoid",
+        "audio": "audio/esquivar.mp3",
+        "image": "images/esquivar.png",
+        "exceptions": "Evitar"
+      },
+
+      {
+        "spanish": "Estallar",
+        "englishCorrect": "To explode/erupt",
+        "audio": "audio/estallar.mp3",
+        "image": "images/estallar.png",
+        "exceptions": ["Explotar", "Reventar", "Verter"]
+      },
+
+      {
+        "spanish": "Estar",
+        "englishCorrect": "To be(temporary)",
+        "audio": "audio/estar.mp3",
+        "image": "images/estar.png"
+        
+      },
+
+      {
+        "spanish": "Estar de acuerdo",
+        "englishCorrect": "To agree",
+        "audio": "audio/estar_de_acuerdo.mp3",
+        "image": "images/estar_de_acuerdo.png"
+        
+      },
+
+      {
+        "spanish": "Estirar",
+        "englishCorrect": "To stretch",
+        "audio": "audio/estirar.mp3",
+        "image": "images/estirar.png",
+        "exceptions":  "Calentar"
+    
+      },
+
+      {
+        "spanish": "Estropear(se)",
+        "englishCorrect": "To spoil/ruin",
+        "audio": "audio/estropearse.mp3",
+        "image": "images/estropearse.png",
+        "exceptions": "Mimar"
+      },
+
+      {
+        "spanish": "Estudiar",
+        "englishCorrect": "To study",
+        "audio": "audio/estudiar.mp3",
+        "image": "images/estudiar.png",
+        "exceptions": ["Escribir", "Leer"]
+      },
+
+      {
+        "spanish": "Evitar",
+        "englishCorrect": "To avoid",
+        "audio": "audio/evitar.mp3",
+        "image": "images/evitar.png",
+        "exceptions": "Esquivar"
+      },
+
+
+      {
+        "spanish": "Exagerar",
+        "englishCorrect": "To exaggerate",
+        "audio": "audio/exagerar.mp3",
+        "image": "images/exagerar.png",
+        "exceptions": "Gritar"
+      },
+
+      {
+        "spanish": "Existir",
+        "englishCorrect": "To exist",
+        "audio": "audio/existir.mp3",
+        "image": "images/existir.png"
+      },
+
+      {
+        "spanish": "Exorcizar",
+        "englishCorrect": "To exorcize",
+        "audio": "audio/exorcizar.mp3",
+        "image": "images/exorcizar.png"
+      },
+
+      {
+        "spanish": "Explicar",
+        "englishCorrect": "To explain",
+        "audio": "audio/explicar.mp3",
+        "image": "images/explicar.png",
+        "exceptions": ["Comprender", "Entender", "Aprender"]
+      },
+
+      {
+        "spanish": "Explotar",
+        "englishCorrect": "To explode/exploit",
+        "audio": "audio/explotar.mp3",
+        "image": "images/explotar.png",
+        "exceptions": ["Reventar", "Estallar"]
+      },
+
+      {
+        "spanish": "Exprimir",
+        "englishCorrect": "To squeeze",
+        "audio": "audio/exprimir.mp3",
+        "image": "images/exprimir.png",
+        "exceptions": "Apretar"
+    
+      },
+
+      {
+        "spanish": "Extrañar",
+        "englishCorrect": "To miss",
+        "audio": "audio/extranar.mp3",
+        "image": "images/extranar.png",
+        "exceptions": ["Querer", "Amar", "Enamorarse", "Adorar", "Admirar", "Encantar"]
+    
+      },
+
+      {
+        "spanish": "Fallar",
+        "englishCorrect": "To fail",
+        "audio": "audio/fallar.mp3",
+        "image": "images/fallar.png"
+      },
+
+      {
+        "spanish": "Faltar",
+        "englishCorrect": "To lack/be missing",
+        "audio": "audio/faltar.mp3",
+        "image": "images/faltar.png"
+      },
+
+      {
+        "spanish": "Fascinar",
+        "englishCorrect": "To fascinate",
+        "audio": "audio/fascinar.mp3",
+        "image": "images/fascinar.png",
+        "exceptions": "Interesar"
+      },
+
+      {
+        "spanish": "Felicitar",
+        "englishCorrect": "To congratulate",
+        "audio": "audio/felicitar.mp3",
+        "image": "images/felicitar.png",
+        "exceptions": ["Conseguir", "Cumplir", "Celebrar", "Festejar"]
+      },
+
+      {
+        "spanish": "Festejar",
+        "englishCorrect": "To celebrate",
+        "audio": "audio/festejar.mp3",
+        "image": "images/festejar.png",
+        "exceptions": ["Conseguir", "Cumplir", "Celebrar", "Felicitar"]
+      },
+
+      {
+        "spanish": "Filmar",
+        "englishCorrect": "To film",
+        "audio": "audio/filmar.mp3",
+        "image": "images/filmar.png",
+        "exceptions": "Grabar"
+      },
+
+      {
+        "spanish": "Firmar",
+        "englishCorrect": "To sign",
+        "audio": "audio/firmar.mp3",
+        "image": "images/firmar.png",
+        "exceptions": "Escribir"
+      },
+
+      {
+        "spanish": "Flexionar",
+        "englishCorrect": "To flex",
+        "audio": "audio/flexionar.mp3",
+        "image": "images/flexionar.png",
+        "exceptions": "Jactarse"
+      },
+
+      {
+        "spanish": "Flotar",
+        "englishCorrect": "To float",
+        "audio": "audio/flotar.mp3",
+        "image": "images/flotar.png"
+      },
+
+      {
+        "spanish": "Fluir",
+        "englishCorrect": "To flow",
+        "audio": "audio/fluir.mp3",
+        "image": "images/fluir.png"
+      },
+
+      {
+        "spanish": "Formar",
+        "englishCorrect": "To form/shape",
+        "audio": "audio/formar.mp3",
+        "image": "images/formar.png",
+        "exceptions": "Conformar"
+      },
+
+      {
+        "spanish": "Fregar",
+        "englishCorrect": "To scrub",
+        "audio": "audio/fregar.mp3",
+        "image": "images/fregar.png",
+        "exceptions": ["Limpiar","Lavar"]
+      },
+
+      {
+        "spanish": "Freír",
+        "englishCorrect": "To fry",
+        "audio": "audio/freir.mp3",
+        "image": "images/freir.png",
+        "exceptions": "Cocinar"
+      },
+      
+      {
+        "spanish": "Fruncir el ceño",
+        "englishCorrect": "To frown",
+        "audio": "audio/fruncir_el_ceno.mp3",
+        "image": "images/fruncir_el_ceno.png",
+        "exceptions": ["Odiar", "Despreciar"]
+      },
+
+      {
+        "spanish": "Fumar",
+        "englishCorrect": "To smoke",
+        "audio": "audio/fumar.mp3",
+        "image": "images/fumar.png"
+      },
+
+      {
+        "spanish": "Ganar",
+        "englishCorrect": "To win/earn",
+        "audio": "audio/ganar.mp3",
+        "image": "images/ganar.png",
+        "exceptions": ["Conseguir", "Lograr", "Dominar", "Derrotar"]
+      },
+
+      {
+        "spanish": "Gastar",
+        "englishCorrect": "To spend",
+        "audio": "audio/gastar.mp3",
+        "image": "images/gastar.png",
+        "exceptions": "Pagar"
+      },
+
+      {
+        "spanish": "Gemir",
+        "englishCorrect": "To moan/whimper",
+        "audio": "audio/gemir.mp3",
+        "image": "images/gemir.png"
+      },
+
+      {
+        "spanish": "Gobernar",
+        "englishCorrect": "To govern",
+        "audio": "audio/gobernar.mp3",
+        "image": "images/gobernar.png",
+        "exceptions": ["Dirigir", "Guiar"]
+      },
+
+      {
+        "spanish": "Golpear",
+        "englishCorrect": "To hit/punch",
+        "audio": "audio/golpear.mp3",
+        "image": "images/golpear.png",
+        "exceptions": ["Patear","Tirar","Disparar", "Pegar", "Practicar"]
+      },
+
+      {
+        "spanish": "Gozar",
+        "englishCorrect": "To enjoy",
+        "audio": "audio/gozar.mp3",
+        "image": "images/gozar.png",
+        "exceptions": ["Disfrutar", "Sonreír", "Reír","Divertir(se)"]
+      },
+
+      {
+        "spanish": "Grabar",
+        "englishCorrect": "To record",
+        "audio": "audio/grabar.mp3",
+        "image": "images/grabar.png",
+        "exceptions": "Filmar"
+      },
+
+      {
+        "spanish": "Gritar",
+        "englishCorrect": "To scream/shout",
+        "audio": "audio/gritar.mp3",
+        "image": "images/gritar.png",
+        "exceptions": ["Exagerar", "Sollozar", "Enojar"]
+      },
+
+      {
+        "spanish": "Gruñir",
+        "englishCorrect": "To growl/grumble",
+        "audio": "audio/grunir.mp3",
+        "image": "images/grunir.png",
+        "exceptions": ["Exagerar", "Sollozar", "Enojar", "Ladrar", "Gemir"]
+      },
+      
+      {
+        "spanish": "Guardar",
+        "englishCorrect": "To save/put away/guard",
+        "audio": "audio/guardar.mp3",
+        "image": "images/guardar.png",
+        "exceptions": ["Rescatar", "Salvar", "Ahorrar"]
+      },
+
+      {
+        "spanish": "Guiar",
+        "englishCorrect": "To guide",
+        "audio": "audio/guiar.mp3",
+        "image": "images/guiar.png",
+        "exceptions": ["Dirigir","Gobernar"]
+      },
+
+      {
+        "spanish": "Gustar",
+        "englishCorrect": "To like",
+        "audio": "audio/gustar.mp3",
+        "image": "images/gustar.png",
+        "exceptions": "Lamer"
+      },
+
+
+      {
+        "spanish": "Haber/hay",
+        "englishCorrect": "To have(+past)/exist(there is)",
+        "audio": "audio/haber_hay.mp3",
+        "image": "images/haber_hay.png",
+        "exceptions": ["Pasar", "Tener"]
+        
+      },
+
+      {
+        "spanish": "Hablar",
+        "englishCorrect": "To talk/speak",
+        "audio": "audio/hablar.mp3",
+        "image": "images/hablar.png",
+        "exceptions": ["Decir","Traducir", "Discutir"]
+      },
+
+      {
+        "spanish": "Hacer",
+        "englishCorrect": "To do",
+        "audio": "audio/hacer.mp3",
+        "image": "images/hacer.png"
+        
+      },
+
+      {
+        "spanish": "Hacer caca",
+        "englishCorrect": "To poop",
+        "audio": "audio/hacer_caca.mp3",
+        "image": "images/hacer_caca.png"
+        
+      },
+
+      {
+        "spanish": "Hacer campaña",
+        "englishCorrect": "To campaign",
+        "audio": "audio/hacer_campana.mp3",
+        "image": "images/hacer_campana.png",
+        "exceptions": "Votar"
+      },
+
+      {
+        "spanish": "Hacer cosquillas a",
+        "englishCorrect": "To tickle",
+        "audio": "audio/hacer_cosquillas.mp3",
+        "image": "images/hacer_cosquillas.png"
+      },
+
+      {
+        "spanish": "Hacer malabares",
+        "englishCorrect": "To juggle",
+        "audio": "audio/hacer_malabares.mp3",
+        "image": "images/hacer_malabares.png",
+        "exceptions": ["Divertir(se)","Jugar"]
+        
+      },
+
+      {
+        "spanish": "Hacer pis",
+        "englishCorrect": "To pee",
+        "audio": "audio/hacer_pis.mp3",
+        "image": "images/hacer_pis.png"
+        
+      },
+
+      {
+        "spanish": "Hacer trampa",
+        "englishCorrect": "To cheat",
+        "audio": "audio/hacer_trampa.mp3",
+        "image": "images/hacer_trampa.png",
+        "exceptions": ["Engañar","Traicionar"]
+      },
+
+      {
+        "spanish": "Hallar",
+        "englishCorrect": "To find",
+        "audio": "audio/hallar.mp3",
+        "image": "images/hallar.png",
+         "exceptions": ["Encontrar", "Encontrarse"]
+      },
+
+      {
+        "spanish": "Helar(se)",
+        "englishCorrect": "To freeze",
+        "audio": "audio/helarse.mp3",
+        "image": "images/helarse.png",
+        "exceptions": "Congelar"
+      },
+
+      {
+        "spanish": "Heredar",
+        "englishCorrect": "To inherit",
+        "audio": "audio/heredar.mp3",
+        "image": "images/heredar.png"
+      },
+
+      {
+        "spanish": "Herir",
+        "englishCorrect": "To wound/hurt",
+        "audio": "audio/herir.mp3",
+        "image": "images/herir.png",
+        "exceptions": ["Lastimar","Exagerar", "Doler"]
+      },
+
+      {
+        "spanish": "Hervir",
+        "englishCorrect": "To boil",
+        "audio": "audio/hervir.mp3",
+        "image": "images/hervir.png",
+        "exceptions": "Cocinar"
+        
+      },
+
+      {
+        "spanish": "Hornear",
+        "englishCorrect": "To bake",
+        "audio": "audio/hornear.mp3",
+        "image": "images/hornear.png",
+        "exceptions": "Cocinar"
+        
+      },
+
+
+      {
+        "spanish": "Huir",
+        "englishCorrect": "To flee",
+        "audio": "audio/huir.mp3",
+        "image": "images/huir.png",
+        "exceptions":  "Escapar"
+      },
+
+      {
+        "spanish": "Humillar",
+        "englishCorrect": "To humiliate",
+        "audio": "audio/humillar.mp3",
+        "image": "images/humillar.png",
+        "exceptions": "Avergonzar"
+        
+      },
+
+      {
+        "spanish": "Hundir(se)",
+        "englishCorrect": "To sink",
+        "audio": "audio/hundirse.mp3",
+        "image": "images/hundirse.png"
+        
+      },
+
+      {
+        "spanish": "Ignorar",
+        "englishCorrect": "To ignore",
+        "audio": "audio/ignorar.mp3",
+        "image": "images/ignorar.png"
+      },
+
+      {
+        "spanish": "Iluminar",
+        "englishCorrect": "To light/illuminate",
+        "audio": "audio/iluminar.mp3",
+        "image": "images/iluminar.png"
+      },
+
+      {
+        "spanish": "Imaginar",
+        "englishCorrect": "To imagine",
+        "audio": "audio/imaginar.mp3",
+        "image": "images/imaginar.png",
+        "exceptions": "Escribir"
+      },
+
+      {
+        "spanish": "Imitar",
+        "englishCorrect": "To imitate",
+        "audio": "audio/imitar.mp3",
+        "image": "images/imitar.png"
+      },
+
+      {
+        "spanish": "Impedir",
+        "englishCorrect": "To prevent/stop",
+        "audio": "audio/impedir.mp3",
+        "image": "images/impedir.png",
+        "exceptions": ["Parar","Bloquear"]
+      },
+
+      {
+        "spanish": "Importar",
+        "englishCorrect": "To matter/import",
+        "audio": "audio/importar.mp3",
+        "image": "images/importar.png",
+        "exceptions": ["Apreciar", "Alegrar(se)"]
+      },
+
+      {
+        "spanish": "Imprimir",
+        "englishCorrect": "To print/impress",
+        "audio": "audio/imprimir.mp3",
+        "image": "images/imprimir.png",
+        "exceptions": "Copiar"
+      },
+
+      {
+        "spanish": "Inclinar",
+        "englishCorrect": "To tilt/lean",
+        "audio": "audio/inclinar.mp3",
+        "image": "images/inclinar.png",
+        "exceptions": ["Ayudar", "Soportar", "Recostar"]
+      },
+
+      {
+        "spanish": "Inscribir",
+        "englishCorrect": "To enroll/inscribe",
+        "audio": "audio/inscribir.mp3",
+        "image": "images/inscribir.png",
+        "exceptions": "Registrar(se)"
+      },
+
+      {
+        "spanish": "Insistir",
+        "englishCorrect": "To insist",
+        "audio": "audio/insistir.mp3",
+        "image": "images/insistir.png",
+        "exceptions": "Pelear"
+      },
+
+      {
+        "spanish": "Insultar",
+        "englishCorrect": "To insult",
+        "audio": "audio/insultar.mp3",
+        "image": "images/insultar.png",
+        "exceptions": "Pelear"
+      },
+
+      {
+        "spanish": "Intentar",
+        "englishCorrect": "To try",
+        "audio": "audio/intentar.mp3",
+        "image": "images/intentar.png",
+        "exceptions": ["Intentar", "Probar"]
+      },
+
+      {
+        "spanish": "Interesar",
+        "englishCorrect": "To interest",
+        "audio": "audio/interesar.mp3",
+        "image": "images/interesar.png",
+        "exceptions": "Fascinar"
+      },
+
+      {
+        "spanish": "Invadir",
+        "englishCorrect": "To invadir",
+        "audio": "audio/invadir.mp3",
+        "image": "images/invadir.png",
+        "exceptions": "Cocinar"
+      },
+
+      {
+        "spanish": "Invitar",
+        "englishCorrect": "To invite",
+        "audio": "audio/invitar.mp3",
+        "image": "images/invitar.png",
+        "exceptions": "Casarse"
+      },
+
+      {
+        "spanish": "Ir",
+        "englishCorrect": "To go",
+        "audio": "audio/ir.mp3",
+        "image": "images/ir.png",
+        "exceptions": ["Caminar", "Correr", "Andar", "Marchar", "Marcharse"]
+      },
+
+      
+
+      {
+        "spanish": "Jactarse",
+        "englishCorrect": "To brag",
+        "audio": "audio/jactarse.mp3",
+        "image": "images/jactarse.png",
+        "exceptions": ["Flexionar","Alardear"]
+      },
+
+      {
+        "spanish": "Jalar",
+        "englishCorrect": "To pull",
+        "audio": "audio/jalar.mp3",
+        "image": "images/jalar.png",
+        "exceptions": "Cerrar"
+      },
+
+      {
+        "spanish": "Jugar",
+        "englishCorrect": "To play",
+        "audio": "audio/jugar.mp3",
+        "image": "images/jugar.png",
+        "exceptions": "Perder"
+      },
+
+      {
+        "spanish": "Juntar",
+        "englishCorrect": "To put together",
+        "audio": "audio/juntar.mp3",
+        "image": "images/juntar.png",
+        "exceptions": "Resolver"
+      },
+
+      {
+        "spanish": "Jurar",
+        "englishCorrect": "To swear",
+        "audio": "audio/jurar.mp3",
+        "image": "images/jurar.png"
+      },
+
+      {
+        "spanish": "Juzgar",
+        "englishCorrect": "To judge",
+        "audio": "audio/juzgar.mp3",
+        "image": "images/juzgar.png",
+        "exceptions": "Revocar"
+      },
+
+      {
+        "spanish": "Ladrar",
+        "englishCorrect": "To bark",
+        "audio": "audio/ladrar.mp3",
+        "image": "images/ladrar.png",
+        "exceptions": ["Gemir", "Gruñir"]
+      },
+
+      {
+        "spanish": "Lamentar",
+        "englishCorrect": "To regret/be sorry about",
+        "audio": "audio/lamentar.mp3",
+        "image": "images/lamentar.png",
+        "exceptions": ["Arrepentirse", "Llorar"]
+      },
+
+      {
+        "spanish": "Lamer",
+        "englishCorrect": "To lick",
+        "audio": "audio/lamer.mp3",
+        "image": "images/lamer.png",
+        "exceptions": "Gustar"
+      },
+
+      {
+        "spanish": "Lanzar",
+        "englishCorrect": "To launch/throw",
+        "audio": "audio/lanzar.mp3",
+        "image": "images/lanzar.png",
+        "exceptions": ["Tirar", "Soltar", "Echar", "Arrojar"]
+      },
+
+      {
+        "spanish": "Lastimar",
+        "englishCorrect": "To hurt/injure",
+        "audio": "audio/lastimar.mp3",
+        "image": "images/lastimar.png",
+        "exceptions": ["Exagerar", "Herir", "Doler"]
+      },
+
+      {
+        "spanish": "Lavar",
+        "englishCorrect": "To wash",
+        "audio": "audio/lavar.mp3",
+        "image": "images/lavar.png",
+        "exceptions": ["Bañar", "Limpiar", "Fregar"]
+        
+      },
+
+      {
+        "spanish": "Leer",
+        "englishCorrect": "To read",
+        "audio": "audio/leer.mp3",
+        "image": "images/leer.png",
+        "exceptions": ["Estudiar", "Escribir"]
+      },
+
+      {
+        "spanish": "Levantar(se)",
+        "englishCorrect": "To get up/lift",
+        "audio": "audio/levantarse.mp3",
+        "image": "images/levantarse.png",
+         "exceptions": ["Despertar", "Ejercitar"]
+        
+      },
+
+      {
+        "spanish": "Limpiar",
+        "englishCorrect": "To clean",
+        "image": "images/limpiar.png",
+        "audio": "audio/limpiar.mp3",
+        "exceptions": ["Lavar", "Pulir", "Fregar"]
+      },
+
+      {
+        "spanish": "Llamar",
+        "englishCorrect": "To call/name",
+        "audio": "audio/llamar.mp3",
+        "image": "images/llamar.png"
+        
+      },
+
+      {
+        "spanish": "Llegar",
+        "englishCorrect": "To arrive",
+        "audio": "audio/llegar.mp3",
+        "image": "images/llegar.png"
+        
+      },
+
+      {
+        "spanish": "Llenar",
+        "englishCorrect": "To fill",
+        "audio": "audio/llenar.mp3",
+        "image": "images/llenar.png"
+        
+      },
+
+      {
+        "spanish": "Llevar",
+        "englishCorrect": "To carry/bring",
+        "audio": "audio/llevar.mp3",
+        "image": "images/llevar.png",
+        "exceptions": "Traer"
+      },
+
+      {
+        "spanish": "Llorar",
+        "englishCorrect": "To cry",
+        "audio": "audio/llorar.mp3",
+        "image": "images/llorar.png",
+        "exceptions": ["Encarcelar","Sollozar", "Lamentar"]
+      },
+
+      {
+        "spanish": "Llover",
+        "englishCorrect": "To rain",
+        "audio": "audio/llover.mp3",
+        "image": "images/llover.png",
+         "exceptions": "Molestar"
+      },
+
+      {
+        "spanish": "Lograr",
+        "englishCorrect": "To manage to/accomplish",
+        "audio": "audio/lograr.mp3",
+        "image": "images/lograr.png",
+        "exceptions": ["Conseguir","Ganar", "Realizar"]
+      },
+
+      {
+        "spanish": "Luchar",
+        "englishCorrect": "To fight/wrestle/struggle",
+        "audio": "audio/luchar.mp3",
+        "image": "images/luchar.png",
+        "exceptions": ["Pelear", "Atacar", "Invadir", "Boxear", "Practicar"]
+      },
+
+      {
+        "spanish": "Maldecir",
+        "englishCorrect": "To curse/speak poorly of",
+        "audio": "audio/maldecir.mp3",
+        "image": "images/maldecir.png"
+      },
+
+      {
+        "spanish": "Mandar",
+        "englishCorrect": "To send/command/be in charge",
+        "audio": "audio/mandar.mp3",
+        "image": "images/mandar.png",
+        "exceptions":  "Enviar"
+      },
+
+      {
+        "spanish": "Manejar",
+        "englishCorrect": "To drive/manage",
+        "audio": "audio/manejar.mp3",
+        "image": "images/manejar.png",
+         "exceptions": "Conducir"
+      },
+
+      {
+        "spanish": "Mantener",
+        "englishCorrect": "To maintain",
+        "audio": "audio/mantener.mp3",
+        "image": "images/mantener.png",
+        "exceptions": ["Rociar","Regar"]
+      },
+
+      {
+        "spanish": "Maquillar(se)",
+        "englishCorrect": "To put on makeup",
+        "audio": "audio/maquillarse.mp3",
+        "image": "images/maquillarse.png"
+      },
+
+      {
+        "spanish": "Marcar",
+        "englishCorrect": "To mark/score (goal)",
+        "audio": "audio/marcar.mp3",
+        "image": "images/marcar.png"
+      },
+
+      {
+        "spanish": "Marchar",
+        "englishCorrect": "To march/go",
+        "audio": "audio/marchar.mp3",
+        "image": "images/marchar.png",
+        "exceptions": ["Ir", "Caminar", "Venir", "Andar", "Marcharse"]
+      },
+
+      {
+        "spanish": "Marcharse",
+        "englishCorrect": "To leave/go",
+        "audio": "audio/marcharse.mp3",
+        "image": "images/marcharse.png",
+        "exceptions": ["Ir", "Caminar", "Venir", "Andar", "Marchar"]
+      },
+
+      {
+        "spanish": "Matar",
+        "englishCorrect": "To kill",
+        "audio": "audio/matar.mp3",
+        "image": "images/matar.png",
+        "exceptions": ["Disparar","Tirar"]
+      },
+
+      {
+        "spanish": "Maullar",
+        "englishCorrect": "To meow",
+        "audio": "audio/maullar.mp3",
+        "image": "images/maullar.png",
+        "exceptions": "Bostezar"
+      },
+
+      {
+        "spanish": "Medir",
+        "englishCorrect": "To measure",
+        "audio": "audio/medir.mp3",
+        "image": "images/medir.png"
+      },
+
+      {
+        "spanish": "Meditar",
+        "englishCorrect": "To meditate",
+        "audio": "audio/meditar.mp3",
+        "image": "images/meditar.png"
+      },
+
+      {
+        "spanish": "Mejorar",
+        "englishCorrect": "To improve",
+        "audio": "audio/mejorar.mp3",
+        "image": "images/mejorar.png",
+        "exceptions": ["Calentar","Ejercitar"]
+      },
+
+      {
+        "spanish": "Mencionar",
+        "englishCorrect": "To mention",
+        "audio": "audio/mencionar.mp3",
+        "image": "images/mencionar.png",
+        "exceptions": ["Hablar", "Traducir", "Discutir", "Decir"]
+      },
+
+      {
+        "spanish": "Mentir",
+        "englishCorrect": "To lie",
+        "audio": "audio/mentir.mp3",
+        "image": "images/mentir.png"
+      },
+
+      {
+        "spanish": "Merecer",
+        "englishCorrect": "To deserve",
+        "audio": "audio/merecer.mp3",
+        "image": "images/merecer.png"
+        
+      },
+
+      {
+        "spanish": "Mezclar",
+        "englishCorrect": "To mix",
+        "audio": "audio/mezclar.mp3",
+        "image": "images/mezclar.png",
+        "exceptions": ["Pintar","Dibujar"]
+      },
+
+      {
+        "spanish": "Migrar",
+        "englishCorrect": "To migrate",
+        "audio": "audio/migrar.mp3",
+        "image": "images/migrar.png",
+        "exceptions": ["Volar", "Viajar"]
+      },
+
+      {
+        "spanish": "Mimar",
+        "englishCorrect": "To pamper/spoil",
+        "audio": "audio/mimar.mp3",
+        "image": "images/mimar.png",
+        "exceptions": "Estropear(se)"
+      },
+
+      {
+        "spanish": "Mirar",
+        "englishCorrect": "To watch/look",
+        "audio": "audio/mirar.mp3",
+        "image": "images/mirar.png",
+        "exceptions": "Ver"
+      },
+
+      {
+        "spanish": "Mojar",
+        "englishCorrect": "To wet/dip",
+        "audio": "audio/mojar.mp3",
+        "image": "images/mojar.png",
+        "exceptions": "Sumergir"
+        
+      },
+
+      {
+        "spanish": "Molestar",
+        "englishCorrect": "To disturb/bother",
+        "audio": "audio/molestar.mp3",
+        "image": "images/molestar.png",
+        "exceptions": ["Llover", "Enojar", "Gritar", "Enfadar"]
+      },
+
+      {
+        "spanish": "Montar",
+        "englishCorrect": "To ride/assemble",
+        "audio": "audio/montar.mp3",
+        "image": "images/montar.png"
+        
+      },
+
+      {
+        "spanish": "Morder",
+        "englishCorrect": "To bite",
+        "audio": "audio/morder.mp3",
+        "image": "images/morder.png"
+        
+      },
+
+      {
+        "spanish": "Morir",
+        "englishCorrect": "To die",
+        "audio": "audio/morir.mp3",
+        "image": "images/morir.png"
+        
+      },
+
+      
+      {
+        "spanish": "Mostrar",
+        "englishCorrect": "To show",
+        "audio": "audio/mostrar.mp3",
+        "image": "images/mostrar.png"
+        
+      },
+
+      {
+        "spanish": "Mover(se)",
+        "englishCorrect": "To move",
+        "audio": "audio/moverse.mp3",
+        "image": "images/moverse.png"
+        
+      },
+
+      {
+        "spanish": "Nacer",
+        "englishCorrect": "To be born",
+        "audio": "audio/nacer.mp3",
+        "image": "images/nacer.png"
+        
+      },
+
+      {
+        "spanish": "Nadar",
+        "englishCorrect": "To swim",
+        "audio": "audio/nadar.mp3",
+        "image": "images/nadar.png",
+        "exceptions": ["Salpicar", "Bucear"]
+        
+      },
+
+      {
+        "spanish": "Navegar",
+        "englishCorrect": "To sail/navigate",
+        "audio": "audio/navegar.mp3",
+        "image": "images/navegar.png",
+        "exceptions": "Remar"
+        
+      },
+
+      {
+        "spanish": "Necesitar",
+        "englishCorrect": "To need",
+        "audio": "audio/necesitar.mp3",
+        "image": "images/necesitar.png"
+        
+      },
+
+      {
+        "spanish": "Nevar",
+        "englishCorrect": "To snow",
+        "audio": "audio/nevar.mp3",
+        "image": "images/nevar.png"
+        
+      },
+
+      {
+        "spanish": "Observar",
+        "englishCorrect": "To observe",
+        "audio": "audio/observar.mp3",
+        "image": "images/observar.png"
+        
+      },
+
+      {
+        "spanish": "Ocultar(se)",
+        "englishCorrect": "To hide",
+        "audio": "audio/ocultarse.mp3",
+        "image": "images/ocultarse.png",
+        "exceptions": "Esconder"
+        
+      },
+      
+      {
+        "spanish": "Ocurrir",
+        "englishCorrect": "To happen",
+        "audio": "audio/ocurrir.mp3",
+        "image": "images/ocurrir.png",
+        "exceptions": "Pasar"
+        
+      },
+
+      {
+        "spanish": "Odiar",
+        "englishCorrect": "To hate",
+        "audio": "audio/odiar.mp3",
+        "image": "images/odiar.png",
+        "exceptions": ["Fruncir el ceño", "Despreciar"]
+      },
+
+      {
+        "spanish": "Ofrecer",
+        "englishCorrect": "To offer",
+        "audio": "audio/ofrecer.mp3",
+        "image": "images/ofrecer.png",
+        "exceptions": ["Pedir Prestado", "Dar", "Aceptar", "Regalar", "Compartir"]
+      },
+
+      {
+        "spanish": "Oír",
+        "englishCorrect": "To hear",
+        "audio": "audio/oir.mp3",
+        "image": "images/oir.png",
+        "exceptions": "Escuchar"
+      },
+      
+      {
+        "spanish": "Oler",
+        "englishCorrect": "To smell",
+        "audio": "audio/oler.mp3",
+        "image": "images/oler.png"
+      },
+
+      {
+        "spanish": "Olvidar/Olvidarse de",
+        "englishCorrect": "To forget",
+        "audio": "audio/olvidarse_de.mp3",
+        "image": "images/olvidarse_de.png"
+      },
+
+      {
+        "spanish": "Operar",
+        "englishCorrect": "To operate",
+        "audio": "audio/operar.mp3",
+        "image": "images/operar.png"
+      },
+
+      {
+        "spanish": "Oponer",
+        "englishCorrect": "To oppose",
+        "audio": "audio/oponer.mp3",
+        "image": "images/oponer.png",
+        "exceptions": ["Hablar", "Decir", "Discutir"]
+      },
+
+      {
+        "spanish": "Ordenar",
+        "englishCorrect": "To order/arrange",
+        "audio": "audio/ordenar.mp3",
+        "image": "images/ordenar.png",
+        "exceptions": ["Limpiar", "Lavar", "Fregar"]
+      },
+
+      {
+        "spanish": "Osar",
+        "englishCorrect": "To dare",
+        "audio": "audio/osar.mp3",
+        "image": "images/osar.png",
+        "exceptions": ["Atreverse", "Cruzar"]
+      },
+
+      {
+        "spanish": "Oscilar",
+        "englishCorrect": "To swing",
+        "audio": "audio/oscilar.mp3",
+        "image": "images/oscilar.png",
+        "exceptions": "Balancear"
+      },
+
+      {
+        "spanish": "Pagar",
+        "englishCorrect": "To pay",
+        "audio": "audio/pagar.mp3",
+        "image": "images/pagar.png",
+        "exceptions": "Gastar"
+      },
+
+      {
+        "spanish": "Parar",
+        "englishCorrect": "To stop",
+        "audio": "audio/parar.mp3",
+        "image": "images/parar.png",
+        "exceptions": ["Impedir","Bloquear"]
+        
+      },
+
+      {
+        "spanish": "Pararse",
+        "englishCorrect": "To stand",
+        "audio": "audio/pararse.mp3",
+        "image": "images/pararse.png"
+        
+      },
+
+      {
+        "spanish": "Parecer",
+        "englishCorrect": "To seem",
+        "audio": "audio/parecer.mp3",
+        "image": "images/parecer.png"
+        
+      },
+
+      {
+        "spanish": "Participar",
+        "englishCorrect": "To participate",
+        "audio": "audio/participar.mp3",
+        "image": "images/participar.png",
+        "exceptions": "Contestar"
+        
+      },
+
+      {
+        "spanish": "Partir",
+        "englishCorrect": "To leave",
+        "audio": "audio/partir.mp3",
+        "image": "images/partir.png",
+        "exceptions": "Ir"
+        
+      },
+
+      {
+        "spanish": "Pasar",
+        "englishCorrect": "To pass/happen",
+        "audio": "audio/pasar.mp3",
+        "image": "images/pasar.png",
+        "exceptions": ["Ocurrir", "Patear", "Tirar", "Disparar"]
+      },
+
+      {
+        "spanish": "Pasear/Dar un paseo",
+        "englishCorrect": "To go for a walk",
+        "audio": "audio/pasear.mp3",
+        "image": "images/pasear.png",
+        "exceptions": ["Caminar","Andar", "Marchar"]
+      },
+
+      {
+        "spanish": "Patear",
+        "englishCorrect": "To kick",
+        "image": "images/patear.png",
+        "audio": "audio/patear.mp3",
+        "exceptions": ["Pasar", "Disparar"]
+      },
+
+      {
+        "spanish": "Patinar",
+        "englishCorrect": "To skate",
+        "audio": "audio/patinar.mp3",
+        "image": "images/patinar.png",
+        "exceptions": "Esquiar"
+      },
+
+      {
+        "spanish": "Pedir",
+        "englishCorrect": "To ask/order",
+        "audio": "audio/pedir.mp3",
+        "image": "images/pedir.png",
+        "exceptions": "Preguntar"
+      },
+
+      {
+        "spanish": "Pedir prestado",
+        "englishCorrect": "To borrow",
+        "audio": "audio/pedir_prestado.mp3",
+        "image": "images/pedirprestado.png",
+        "exceptions": ["Prestar", "Dar", "Ofrecer", "Aceptar", "Regalar"]
+      },
+
+
+      {
+        "spanish": "Pegar",
+        "englishCorrect": "To paste/stick/hit",
+        "audio": "audio/pegar.mp3",
+        "image": "images/pegar.png",
+        "exceptions":  "Golpear"
+      },
+
+      {
+        "spanish": "Peinar(se)",
+        "englishCorrect": "To comb",
+        "audio": "audio/peinarse.mp3",
+        "image": "images/peinarse.png",
+        "exceptions": "Cepillar(se)"
+        
+      },
+
+      {
+        "spanish": "Pelear",
+        "englishCorrect": "To fight",
+        "audio": "audio/pelear.mp3",
+        "image": "images/pelear.png",
+        "exceptions": ["Luchar", "Insultar", "Atacar", "Invadir", "Boxear", "Practicar"]
+        
+      },
+
+      {
+        "spanish": "Pensar",
+        "englishCorrect": "To think",
+        "audio": "audio/pensar.mp3",
+        "image": "images/pensar.png",
+        "exceptions": "Creer"
+      },
+
+      {
+        "spanish": "Percebir",
+        "englishCorrect": "To perceive",
+        "audio": "audio/percebir.mp3",
+        "image": "images/percebir.png"
+        
+      },
+
+      {
+        "spanish": "Perder",
+        "englishCorrect": "To lose",
+        "audio": "audio/perder.mp3",
+        "image": "images/perder.png",
+        "exceptions": "Jugar"
+        
+      },
+      
+      {
+        "spanish": "Perdonar",
+        "englishCorrect": "To forgive",
+        "audio": "audio/perdonar.mp3",
+        "image": "images/perdonar.png"
+        
+      },
+
+      {
+        "spanish": "Permitir",
+        "englishCorrect": "To allow",
+        "audio": "audio/permitir.mp3",
+        "image": "images/permitir.png",
+        "exceptions": "Dejar"
+        
+      },
+
+      {
+        "spanish": "Perseguir",
+        "englishCorrect": "To chase/persecute",
+        "audio": "audio/perseguir.mp3",
+        "image": "images/perseguir.png",
+        "exceptions": "Seguir"
+        
+      },
+
+      {
+        "spanish": "Persistir",
+        "englishCorrect": "To persist",
+        "audio": "audio/persistir.mp3",
+        "image": "images/persistir.png",
+         "exceptions": ["Sudar", "Aguantar", "Soportar", "Cansar(se)"]
+      },
+
+      {
+        "spanish": "Persuadir",
+        "englishCorrect": "To persuade",
+        "audio": "audio/persuadir.mp3",
+        "image": "images/persuadir.png",
+        "exceptions": "Convencer"
+      },
+
+      {
+        "spanish": "Pertenecer",
+        "englishCorrect": "To belong",
+        "audio": "audio/pertenecer.mp3",
+        "image": "images/pertenecer.png",
+        "exceptions": "Poseer"
+        
+      },
+
+      {
+        "spanish": "Pesar",
+        "englishCorrect": "To weigh",
+        "audio": "audio/pesar.mp3",
+        "image": "images/pesar.png"
+        
+      },
+
+      {
+        "spanish": "Pescar",
+        "englishCorrect": "To fish",
+        "audio": "audio/pescar.mp3",
+        "image": "images/pescar.png",
+        "exceptions": "Atrapar"
+        
+      },
+
+      {
+        "spanish": "Picar",
+        "englishCorrect": "To sting/nibble at",
+        "audio": "audio/picar.mp3",
+        "image": "images/picar.png",
+        "exceptions": "Morder"
+        
+      },
+
+      {
+        "spanish": "Pintar",
+        "englishCorrect": "To paint",
+        "audio": "audio/pintar.mp3",
+        "image": "images/pintar.png",
+        "exceptions": ["Dibujar","Mezclar"]
+        
+      },
+
+      {
+        "spanish": "Pisar",
+        "englishCorrect": "To step on/walk on",
+        "audio": "audio/pisar.mp3",
+        "image": "images/pisar.png"
+        
+        
+      },
+
+      {
+        "spanish": "Pitar",
+        "englishCorrect": "To whistle/honk",
+        "audio": "audio/pitar.mp3",
+        "image": "images/pitar.png",
+        "exceptions": "Silbar"
+        
+      },
+
+      {
+        "spanish": "Planear",
+        "englishCorrect": "To plan",
+        "audio": "audio/planear.mp3",
+        "image": "images/planear.png"
+        
+        
+      },
+
+      {
+        "spanish": "Poder",
+        "englishCorrect": "To be able to",
+        "audio": "audio/poder.mp3",
+        "image": "images/poder.png",
+        "exceptions": "Empujar"
+      },
+
+      {
+        "spanish": "Poner",
+        "englishCorrect": "To put",
+        "audio": "audio/poner.mp3",
+        "image": "images/poner.png"
+      },
+
+      {
+        "spanish": "Portarse",
+        "englishCorrect": "To behave",
+        "audio": "audio/portarse.mp3",
+        "image": "images/portarse.png"
+      },
+
+      {
+        "spanish": "Poseer",
+        "englishCorrect": "To own",
+        "audio": "audio/poseer.mp3",
+        "image": "images/poseer.png",
+        "exceptions": "Pertenecer"
+      },
+
+      {
+        "spanish": "Posponer",
+        "englishCorrect": "To postpone",
+        "audio": "audio/posponer.mp3",
+        "image": "images/posponer.png",
+        "exceptions": ["Aplazar","Retrasar(se)"]
+      },
+
+      {
+        "spanish": "Practicar",
+        "englishCorrect": "To practice",
+        "audio": "audio/practicar.mp3",
+        "image": "images/practicar.png",
+        "exceptions": ["Boxear", "Pelear", "Patear"]
+      },
+
+      {
+        "spanish": "Predecir",
+        "englishCorrect": "To predict",
+        "audio": "audio/predecir.mp3",
+        "image": "images/predecir.png",
+        "exceptions": "Saber"
+      },
+
+      {
+        "spanish": "Preferir",
+        "englishCorrect": "To prefer",
+        "audio": "audio/preferir.mp3",
+        "image": "images/preferir.png"
+      },
+
+      {
+        "spanish": "Preguntar",
+        "englishCorrect": "To ask(question)",
+        "audio": "audio/preguntar.mp3",
+        "image": "images/preguntar.png",
+        "exceptions": "Pedir"
+      },
+
+      {
+        "spanish": "Preocupar(se)",
+        "englishCorrect": "To worry",
+        "audio": "audio/preocuparse.mp3",
+        "image": "images/preocuparse.png"
+      },
+
+      {
+        "spanish": "Presentar",
+        "englishCorrect": "To present/introduce",
+        "audio": "audio/presentar.mp3",
+        "image": "images/presentar.png",
+        "exceptions": ["Pedir Prestado", "Dar", "Aceptar", "Ofrecer", "Regalar", "Analizar"]
+      },
+
+
+      {
+        "spanish": "Prestar",
+        "englishCorrect": "To lend",
+        "audio": "audio/prestar.mp3",
+        "image": "images/prestar.png",
+        "exceptions": ["Pedir Prestado", "Dar"]
+      },
+
+
+      {
+        "spanish": "Probar",
+        "englishCorrect": "To try(sth.)/taste",
+        "audio": "audio/probar.mp3",
+        "image": "images/probar.png",
+        "exceptions": ["Intentar", "Atar"]
+        
+      },
+
+      {
+        "spanish": "Producir",
+        "englishCorrect": "To produce",
+        "audio": "audio/producir.mp3",
+        "image": "images/producir.png"
+      },
+
+      {
+        "spanish": "Prometer",
+        "englishCorrect": "To promise",
+        "audio": "audio/prometer.mp3",
+        "image": "images/prometer.png"
+        
+      },
+
+      {
+        "spanish": "Promocionar",
+        "englishCorrect": "To promote",
+        "audio": "audio/promocionar.mp3",
+        "image": "images/promocionar.png",
+        "exceptions": "Aplaudir"
+        
+      },
+
+      {
+        "spanish": "Proteger",
+        "englishCorrect": "To protect",
+        "audio": "audio/proteger.mp3",
+        "image": "images/proteger.png"
+        
+      },
+
+      {
+        "spanish": "Protestar",
+        "englishCorrect": "To protest",
+        "audio": "audio/protestar.mp3",
+        "image": "images/protestar.png"
+      },
+
+      {
+        "spanish": "Pulir",
+        "englishCorrect": "To polish",
+        "audio": "audio/pulir.mp3",
+        "image": "images/pulir.png",
+        "exceptions": ["Limpiar","Fregar"]
+      },
+
+      {
+        "spanish": "Quedar",
+        "englishCorrect": "To stay/turn out",
+        "audio": "audio/quedar.mp3",
+        "image": "images/quedar.png",
+        "exceptions": "Resultar"
+      },
+
+      {
+        "spanish": "Quejarse",
+        "englishCorrect": "To complain",
+        "audio": "audio/quejarse.mp3",
+        "image": "images/quejarse.png"
+      },
+
+      {
+        "spanish": "Quemar",
+        "englishCorrect": "To burn",
+        "audio": "audio/quemar.mp3",
+        "image": "images/quemar.png",
+        "exceptions": "Soplar"
+      },
+
+      {
+        "spanish": "Querer",
+        "englishCorrect": "To want/love",
+        "audio": "audio/querer.mp3",
+        "image": "images/querer.png",
+        "exceptions": ["Extrañar", "Amar", "Enamorarse", "Adorar", "Admirar", "Encantar", "Casarse"]
+      },
+
+      {
+        "spanish": "Quitar",
+        "englishCorrect": "To remove/take off",
+        "audio": "audio/quitar.mp3",
+        "image": "images/quitar.png",
+        "exceptions": ["Borrar","Tachar", "Suprimir"]
+      },
+
+      {
+        "spanish": "Rallar",
+        "englishCorrect": "To grate",
+        "audio": "audio/rallar.mp3",
+        "image": "images/rallar.png"
+        
+      },
+
+      {
+        "spanish": "Rascar(se)",
+        "englishCorrect": "To scratch",
+        "audio": "audio/rascarse.mp3",
+        "image": "images/rascarse.png"
+        
+      },
+
+      {
+        "spanish": "Realizar",
+        "englishCorrect": "To carry out/accomplish",
+        "audio": "audio/realizar.mp3",
+        "image": "images/realizar.png",
+        "exceptions": ["Conseguir","Ganar", "Lograr"]
+      },
+
+      {
+        "spanish": "Rebosar",
+        "englishCorrect": "To overflow",
+        "audio": "audio/rebosar.mp3",
+        "image": "images/rebosar.png",
+        "exceptions": ["Explotar","Colmar","Verter"]
+      },
+
+
+      {
+        "spanish": "Rechazar",
+        "englishCorrect": "To refuse",
+        "audio": "audio/rechazar.mp3",
+        "image": "images/rechazar.png"
+        
+      },
+
+      {
+        "spanish": "Recibir",
+        "englishCorrect": "To receive",
+        "audio": "audio/recibir.mp3",
+        "image": "images/recibir.png",
+        "exceptions": ["Conseguir","Dar", "Aceptar", "Regalar"]
+      },
+
+      {
+        "spanish": "Recobrar",
+        "englishCorrect": "To recover/regain",
+        "audio": "audio/recobrar.mp3",
+        "image": "images/recobrar.png",
+        "exceptions": "Recuperar(se)"
+        
+      },
+
+      {
+        "spanish": "Recomendar",
+        "englishCorrect": "To recommend",
+        "audio": "audio/recomendar.mp3",
+        "image": "images/recomendar.png",
+        "exceptions": "Aconsejar"
+      },
+
+      {
+        "spanish": "Reconocer",
+        "englishCorrect": "To recognize",
+        "audio": "audio/reconocer.mp3",
+        "image": "images/reconocer.png"
+        
+      },
+
+      {
+        "spanish": "Recordar",
+        "englishCorrect": "To remember/remind",
+        "audio": "audio/recordar.mp3",
+        "image": "images/recordar.png",
+        "exceptions": "Acordarse"
+        
+      },
+      
+      {
+        "spanish": "Recostar",
+        "englishCorrect": "To lie down/lean",
+        "audio": "audio/recostar.mp3",
+        "image": "images/recostar.png",
+        "exceptions": ["Ayudar", "Soportar", "Inclinar"]
+      },
+
+      {
+        "spanish": "Recuperar(se)",
+        "englishCorrect": "To recover",
+        "audio": "audio/recuperarse.mp3",
+        "image": "images/recuperarse.png"
+        
+      },
+
+      {
+        "spanish": "Regalar",
+        "englishCorrect": "To gift/give",
+        "audio": "audio/regalar.mp3",
+        "image": "images/regalar.png",
+        "exceptions":  ["Presentar", "Dar", "Ofrecer", "Pedir Prestado", "Recibir", "Regalar"]
+      },
+
+      {
+        "spanish": "Regar",
+        "englishCorrect": "To irrigate/water",
+        "audio": "audio/regar.mp3",
+        "image": "images/regar.png",
+        "exceptions": ["Mantener","Rociar"]
+        
+      },
+
+      {
+        "spanish": "Registrar(se)",
+        "englishCorrect": "To register",
+        "audio": "audio/registrarse.mp3",
+        "image": "images/registrarse.png",
+        "exceptions": "Inscribir(se)"
+      },
+      
+      {
+        "spanish": "Regresar",
+        "englishCorrect": "To return/go back",
+        "audio": "audio/regresar.mp3",
+        "image": "images/regresar.png",
+        "exceptions": ["Volver", "Devolver"]
+        
+      },
+
+      {
+        "spanish": "Reír",
+        "englishCorrect": "To laugh",
+        "audio": "audio/reir.mp3",
+        "image": "images/reir.png",
+        "exceptions": ["Sonreír", "Disfrutar", "Gozar"]
+      },
+
+      {
+        "spanish": "Relinchar",
+        "englishCorrect": "To neigh",
+        "audio": "audio/relinchar.mp3",
+        "image": "images/relinchar.png"
+        
+      },
+
+      {
+        "spanish": "Remar",
+        "englishCorrect": "To row",
+        "audio": "audio/remar.mp3",
+        "image": "images/remar.png",
+        "exceptions": "navegar"
+        
+      },
+
+      {
+        "spanish": "Rendirse",
+        "englishCorrect": "To surrender",
+        "audio": "audio/rendirse.mp3",
+        "image": "images/rendirse.png"
+      },
+
+     
+
+      {
+        "spanish": "Reparar",
+        "englishCorrect": "To repair",
+        "audio": "audio/reparar.mp3",
+        "image": "images/reparar.png",
+        "exceptions": "Arreglar"
+        
+      },
+
+      {
+        "spanish": "Repartir",
+        "englishCorrect": "To hand out/deliver",
+        "audio": "audio/repartir.mp3",
+        "image": "images/repartir.png",
+        "exceptions": "Entregar"
+        
+      },
+
+      {
+        "spanish": "Repetir",
+        "englishCorrect": "To repeat",
+        "audio": "audio/repetir.mp3",
+        "image": "images/repetir.png"
+        
+      },
+
+      {
+        "spanish": "Reportar",
+        "englishCorrect": "To report",
+        "audio": "audio/reportar.mp3",
+        "image": "images/reportar.png"
+        
+      },
+
+      {
+        "spanish": "Resbalar",
+        "englishCorrect": "To slip",
+        "audio": "audio/resbalar.mp3",
+        "image": "images/resbalar.png",
+        "exceptions": "Derrapar"
+      },
+
+      {
+        "spanish": "Rescatar",
+        "englishCorrect": "To rescue",
+        "audio": "audio/rescatar.mp3",
+        "image": "images/rescatar.png",
+         "exceptions": ["Salvar", "Guardar", "Ahorrar"]
+        
+      },
+
+      {
+        "spanish": "Resolver",
+        "englishCorrect": "To solve",
+        "audio": "audio/resolver.mp3",
+        "image": "images/resolver.png",
+        "exceptions": "Juntar"
+      },
+
+      {
+        "spanish": "Respetar",
+        "englishCorrect": "To respect",
+        "audio": "audio/respetar.mp3",
+        "image": "images/respetar.png",
+        "exceptions": ["Adorar", "Admirar"]
+      },
+
+      {
+        "spanish": "Respirar",
+        "englishCorrect": "To breathe",
+        "audio": "audio/respirar.mp3",
+        "image": "images/respirar.png"
+        
+      },
+
+      {
+        "spanish": "Restar",
+        "englishCorrect": "To subtract/take away",
+        "audio": "audio/restar.mp3",
+        "image": "images/restar.png",
+        "exceptions":  ["Añadir", "Multiplicar", "Dividir"]
+      },
+
+      {
+        "spanish": "Resultar",
+        "englishCorrect": "To result/turn out",
+        "audio": "audio/resultar.mp3",
+        "image": "images/resultar.png",
+        "exceptions": "Quedar"
+        
+      },
+      
+      {
+        "spanish": "Retirar",
+        "englishCorrect": "To retire/withdraw",
+        "audio": "audio/retirar.mp3",
+        "image": "images/retirar.png",
+        "exceptions": ["Tomar", "Beber", "Descansar"]
+        },
+
+      {
+        "spanish": "Retrasar(se)",
+        "englishCorrect": "To delay/be delayed",
+        "audio": "audio/retrasarse.mp3",
+        "image": "images/retrasarse.png",
+        "exceptions": ["Posponer","Aplazar"]
+        
+        },
+     
+
+      {
+        "spanish": "Reventar",
+        "englishCorrect": "To burst/break",
+        "audio": "audio/reventar.mp3",
+        "image": "images/reventar.png",
+        "exceptions": ["Explotar", "Estallar"]
+      },
+
+      {
+        "spanish": "Revocar",
+        "englishCorrect": "To revoke/repeal",
+        "audio": "audio/revocar.mp3",
+        "image": "images/revocar.png",
+        "exceptions": "Juzgar"
+      },
+
+      {
+        "spanish": "Revolver",
+        "englishCorrect": "To stir",
+        "audio": "audio/revolver.mp3",
+        "image": "images/revolver.png"
+      },
+
+      {
+        "spanish": "Rezar",
+        "englishCorrect": "To pray",
+        "audio": "audio/rezar.mp3",
+        "image": "images/rezar.png",
+        "exceptions": ["Creer", "Rogar"]
+      },
+
+      {
+        "spanish": "Robar",
+        "englishCorrect": "To rob/steal",
+        "audio": "audio/robar.mp3",
+        "image": "images/robar.png"
+      },
+
+      {
+        "spanish": "Rociar",
+        "englishCorrect": "To spray/sprinkle",
+        "audio": "audio/rociar.mp3",
+        "image": "images/rociar.png",
+        "exceptions": ["Regar","Mantener"]
+      },
+
+      {
+        "spanish": "Rodear",
+        "englishCorrect": "To surround/circle",
+        "audio": "audio/rodear.mp3",
+        "image": "images/rodear.png"
+      },
+
+      {
+        "spanish": "Rogar",
+        "englishCorrect": "To beg/pray",
+        "audio": "audio/rogar.mp3",
+        "image": "images/rogar.png",
+        "exceptions": ["Creer","Rezar", "Pedir"]
+      },
+
+      {
+        "spanish": "Romper",
+        "englishCorrect": "To break",
+        "audio": "audio/romper.mp3",
+        "image": "images/romper.png",
+        "exceptions": "Destruir"
+      },
+
+      {
+        "spanish": "Saber",
+        "englishCorrect": "To know",
+        "audio": "audio/saber.mp3",
+        "image": "images/saber.png",
+        "exceptions": "Predecir"
+      },
+
+      {
+        "spanish": "Sacar",
+        "englishCorrect": "To take out",
+        "audio": "audio/sacar.mp3",
+        "image": "images/sacar.png"
+        
+      },
+
+      {
+        "spanish": "Sacudir",
+        "englishCorrect": "To shake",
+        "audio": "audio/sacudir.mp3",
+        "image": "images/sacudir.png",
+        "exceptions": "Agitar"
+      },
+
+      {
+        "spanish": "Salir",
+        "englishCorrect": "To go out",
+        "audio": "audio/salir.mp3",
+        "image": "images/salir.png",
+        "exceptions": ["Partir","Ir", "Marcharse"]
+      },
+
+      {
+        "spanish": "Salpicar",
+        "englishCorrect": "To splash",
+        "audio": "audio/salpicar.mp3",
+        "image": "images/salpicar.png",
+        "exceptions": "Nadar"
+      },
+
+      {
+        "spanish": "Saltar",
+        "englishCorrect": "To jump",
+        "audio": "audio/saltar.mp3",
+        "image": "images/saltar.png",
+        "exceptions": ["Correr", "Saltarse"]
+      },
+
+      {
+        "spanish": "Saltarse",
+        "englishCorrect": "To skip",
+        "audio": "audio/saltarse.mp3",
+        "image": "images/saltarse.png",
+        "exceptions": "Saltar"
+      },
+
+      {
+        "spanish": "Saludar",
+        "englishCorrect": "To greet/wave to",
+        "audio": "audio/saludar.mp3",
+        "image": "images/saludar.png",
+         "exceptions": "Despedirse"
+      
+      },
+
+      {
+        "spanish": "Salvar",
+        "englishCorrect": "To save/rescue",
+        "audio": "audio/salvar.mp3",
+        "image": "images/salvar.png",
+        "exceptions": ["Rescatar", "Guardar", "Ahorrar"]
+      },
+      {
+        "spanish": "Satisfacer",
+        "englishCorrect": "To satisfy",
+        "audio": "audio/satisfacer.mp3",
+        "image": "images/satisfacer.png"
+        
+      },
+
+      {
+        "spanish": "Secar",
+        "englishCorrect": "To dry",
+        "audio": "audio/secar.mp3",
+        "image": "images/secar.png"
+      },
+      
+      {
+        "spanish": "Secuestrar",
+        "englishCorrect": "To kidnap",
+        "audio": "audio/secuestrar.mp3",
+        "image": "images/secuestrar.png"
+      },
+      
+
+      {
+        "spanish": "Seguir",
+        "englishCorrect": "To follow/continue",
+        "audio": "audio/seguir.mp3",
+        "image": "images/seguir.png",
+        "exceptions": ["Espiar","Perseguir", "Continuar"]
+      },
+
+      {
+        "spanish": "Señaler",
+        "englishCorrect": "To point out/indicate",
+        "audio": "audio/senaler.mp3",
+        "image": "images/senaler.png",
+        "exceptions": "Estar"
+      },
+
+      {
+        "spanish": "Sentarse",
+        "englishCorrect": "To sit",
+        "audio": "audio/sentarse.mp3",
+        "image": "images/sentarse.png"
+      },
+
+      {
+        "spanish": "Sentir(se)",
+        "englishCorrect": "To feel",
+        "audio": "audio/sentirse.mp3",
+        "image": "images/sentirse.png",
+        "exceptions": "Querer"
+      },
+
+      {
+        "spanish": "Ser",
+        "englishCorrect": "To be(essence)",
+        "audio": "audio/ser.mp3",
+        "image": "images/ser.png"
+        
+      },
+
+      {
+        "spanish": "Servir",
+        "englishCorrect": "To serve/function",
+        "audio": "audio/servir.mp3",
+        "image": "images/servir.png"
+        
+      },
+
+      {
+        "spanish": "Silbar",
+        "englishCorrect": "To whistle",
+        "audio": "audio/silbar.mp3",
+        "image": "images/silbar.png",
+        "exceptions": "Pitar"
+        
+      },
+
+      {
+        "spanish": "Sobrevivir",
+        "englishCorrect": "To survive",
+        "audio": "audio/sobrevivir.mp3",
+        "image": "images/sobrevivir.png",
+        "exceptions": "Vivir"
+      },
+
+      {
+        "spanish": "Socorrer",
+        "englishCorrect": "To help/come to aid",
+        "audio": "audio/socorrer.mp3",
+        "image": "images/socorrer.png",
+        "exceptions": "Ayudar"
+      },
+
+      {
+        "spanish": "Sofocar",
+        "englishCorrect": "To suffocate/choke",
+        "audio": "audio/sofocar.mp3",
+        "image": "images/sofocar.png"
+      },
+
+      {
+        "spanish": "Soler",
+        "englishCorrect": "To be used to/do often",
+        "audio": "audio/soler.mp3",
+        "image": "images/soler.png"
+      },
+
+      {
+        "spanish": "Sollozar",
+        "englishCorrect": "To sob",
+        "audio": "audio/sollozar.mp3",
+        "image": "images/sollozar.png",
+        "exceptions": ["Exagerar", "Gritar", "Llorar", "Enojar", "Lamentar"]
+      },
+
+      {
+        "spanish": "Soltar",
+        "englishCorrect": "To release/let go",
+        "audio": "audio/soltar.mp3",
+        "image": "images/soltar.png",
+        "exceptions": "Tirar"
+      },
+
+      {
+        "spanish": "Sonar",
+        "englishCorrect": "To ring/sound",
+        "audio": "audio/sonar.mp3",
+        "image": "images/sonar.png",
+         "exceptions": "Vibrar"
+      },
+
+      {
+        "spanish": "Soñar",
+        "englishCorrect": "To dream",
+        "audio": "audio/sonardream.mp3",
+        "image": "images/sonardream.png",
+        "exceptions": "Dream"
+      },
+      
+      {
+        "spanish": "Sonreír",
+        "englishCorrect": "To smile",
+        "audio": "audio/sonreir.mp3",
+        "image": "images/sonreir.png",
+        "exceptions": ["Reír", "Disfrutar", "Gozar"]
+      },
+
+      {
+        "spanish": "Soplar",
+        "englishCorrect": "To blow",
+        "audio": "audio/soplar.mp3",
+        "image": "images/soplar.png"
+        
+      },
+
+      {
+        "spanish": "Soportar",
+        "englishCorrect": "To tolerate/support",
+        "audio": "audio/soportar.mp3",
+        "image": "images/soportar.png",
+        "exceptions": ["Aguantar","Apoyar", "Persistir"]
+        
+      },
+
+      {
+        "spanish": "Sorprender",
+        "englishCorrect": "To surprise",
+        "audio": "audio/sorprender.mp3",
+        "image": "images/sorprender.png"
+      },
+
+      {
+        "spanish": "Sospechar",
+        "englishCorrect": "To suspect",
+        "audio": "audio/sospechar.mp3",
+        "image": "images/sospechar.png"
+      },
+
+      {
+        "spanish": "Sostener",
+        "englishCorrect": "To hold/sustain",
+        "audio": "audio/sostener.mp3",
+        "image": "images/sostener.png"
+      },
+
+      {
+        "spanish": "Subir",
+        "englishCorrect": "To upload/climb/raise",
+        "audio": "audio/subir.mp3",
+        "image": "images/subir.png",
+        "exceptions": ["Tepar","Escalar"]
+      },
+
+      {
+        "spanish": "Subscribir",
+        "englishCorrect": "To subscribe",
+        "audio": "audio/subscribir.mp3",
+        "image": "images/subscribir.png"
+      },
+
+      {
+        "spanish": "Sudar",
+        "englishCorrect": "To sweat",
+        "audio": "audio/sudar.mp3",
+        "image": "images/sudar.png",
+        "exceptions": ["Aguantar","Cansar(se)", "Persistir"]
+      },
+
+      {
+        "spanish": "Sufrir",
+        "englishCorrect": "To suffer",
+        "audio": "audio/sufrir.mp3",
+        "image": "images/sufrir.png"
+      },
+
+      {
+        "spanish": "Sugerir",
+        "englishCorrect": "To suggest",
+        "audio": "audio/sugerir.mp3",
+        "image": "images/sugerir.png"
+      },
+
+      {
+        "spanish": "Suicidarse",
+        "englishCorrect": "To commit suicide",
+        "image": "images/suicidarse.png",
+        "audio": "audio/suicidarse.mp3",
+        "exceptions": "Matar"
+      },
+
+      {
+        "spanish": "Sumergir",
+        "englishCorrect": "To immerse/submerge",
+        "audio": "audio/sumergir.mp3",
+        "image": "images/sumergir.png",
+        "exceptions": "Mojar"
+      },
+
+      {
+        "spanish": "Suponer",
+        "englishCorrect": "To suppose",
+        "audio": "audio/suponer.mp3",
+        "image": "images/suponer.png",
+        "exceptions": ["Considerar","Preguntar"]
+      },
+
+      {
+        "spanish": "Suprimir",
+        "englishCorrect": "To delete/suppress",
+        "audio": "audio/suprimir.mp3",
+        "image": "images/suprimir.png",
+        "exceptions": ["Tachar", "Quitar", "Borrar"]
+      },
+
+      {
+        "spanish": "Surfear",
+        "englishCorrect": "To surf",
+        "audio": "audio/surfear.mp3",
+        "image": "images/surfear.png"
+      },
+
+      {
+        "spanish": "Susurrar",
+        "englishCorrect": "To whisper",
+        "audio": "audio/susurrar.mp3",
+        "image": "images/susurrar.png"
+      },
+
+      {
+        "spanish": "Tachar",
+        "englishCorrect": "To cross out",
+        "audio": "audio/tachar.mp3",
+        "image": "images/tachar.png",
+        "exceptions": ["Borrar","Quitar", "Suprimir"]
+      },
+
+      {
+        "spanish": "Tatuar",
+        "englishCorrect": "To tattoo",
+        "audio": "audio/tatuar.mp3",
+        "image": "images/tatuar.png"
+      },
+
+      {
+        "spanish": "Temblar",
+        "englishCorrect": "To shiver/tremble",
+        "audio": "audio/temblar.mp3",
+        "image": "images/temblar.png"
+      },
+
+      {
+        "spanish": "Temer",
+        "englishCorrect": "To fear",
+        "audio": "audio/temer.mp3",
+        "image": "images/temer.png",
+        "exceptions": "Asustar(se)"
+      },
+
+      {
+        "spanish": "Tener",
+        "englishCorrect": "To have",
+        "audio": "audio/tener.mp3",
+        "image": "images/tener.png",
+        "exceptions": "Haber"
+      },
+
+      {
+        "spanish": "Tepar",
+        "englishCorrect": "To climb",
+        "audio": "audio/tepar.mp3",
+        "image": "images/tepar.png",
+        "exceptions": ["Escalar","Subir"]
+      },
+
+      {
+        "spanish": "Terminar",
+        "englishCorrect": "To end/finish",
+        "audio": "audio/terminar.mp3",
+        "image": "images/terminar.png",
+        "exceptions": "Acabar"
+      },
+
+      {
+        "spanish": "Tirar",
+        "englishCorrect": "To throw/shoot",
+        "audio": "audio/tirar.mp3",
+        "image": "images/tirar.png",
+        "exceptions": ["Matar","Pasar", "Disparar"]
+      },
+
+      {
+        "spanish": "Tocar",
+        "englishCorrect": "To touch/play(instrument)",
+        "audio": "audio/tocar.mp3",
+        "image": "images/tocar.png"
+      },
+
+      {
+        "spanish": "Tomar",
+        "englishCorrect": "To take/drink",
+        "audio": "audio/tomar.mp3",
+        "image": "images/tomar.png",
+        "exceptions": ["Tragar","Beber", "Descansar", "Agarrar"]
+      },
+
+      {
+        "spanish": "Torturar",
+        "englishCorrect": "To torture",
+        "audio": "audio/torturar.mp3",
+        "image": "images/torturar.png",
+        "exceptions": "Atormentar"
+      },
+
+      {
+        "spanish": "Tostar",
+        "englishCorrect": "To toast/roast",
+        "audio": "audio/tostar.mp3",
+        "image": "images/tostar.png"
+      },
+
+      {
+        "spanish": "Trabajar",
+        "englishCorrect": "To work",
+        "audio": "audio/trabajar.mp3",
+        "image": "images/trabajar.png",
+        "exceptions": "Producir"
+      },
+
+      {
+        "spanish": "Traducir",
+        "englishCorrect": "To translate",
+        "audio": "audio/traducir.mp3",
+        "image": "images/traducir.png",
+        "exceptions": ["Hablar","Decir", "Discutir"]
+      },
+
+      {
+        "spanish": "Traer",
+        "englishCorrect": "To bring",
+        "audio": "audio/traer.mp3",
+        "image": "images/traer.png",
+        "exceptions": "Llevar"
+      },
+
+      {
+        "spanish": "Tragar",
+        "englishCorrect": "To swallow",
+        "audio": "audio/tragar.mp3",
+        "image": "images/tragar.png",
+        "exceptions": ["Tomar", "Beber"]
+      },
+
+      {
+        "spanish": "Traicionar",
+        "englishCorrect": "To betray",
+        "audio": "audio/traicionar.mp3",
+        "image": "images/traicionar.png",
+        "exceptions": ["Engañar", "Hacer Trampa"]
+      },
+
+      {
+        "spanish": "Tratar",
+        "englishCorrect": "To treat/try",
+        "audio": "audio/tratar.mp3",
+        "image": "images/tratar.png",
+        "exceptions": ["Intentar", "Probar"]
+      },
+
+      
+      {
+        "spanish": "Usar",
+        "englishCorrect": "To use/wear",
+        "audio": "audio/usar.mp3",
+        "image": "images/usar.png",
+        "exceptions": "Utilizar"
+      },
+
+      {
+        "spanish": "Utilizar",
+        "englishCorrect": "To use",
+        "audio": "audio/utilizar.mp3",
+        "image": "images/utilizar.png",
+        "exceptions": "Usar"
+      },
+
+      {
+        "spanish": "Vaciar",
+        "englishCorrect": "To empty",
+        "audio": "audio/vaciar.mp3",
+        "image": "images/vaciar.png",
+         "exceptions": "Agotar(se)"
+      },
+
+      {
+        "spanish": "Valer",
+        "englishCorrect": "To be worth",
+        "audio": "audio/valer.mp3",
+        "image": "images/valer.png",
+         "exceptions": "Costar"
+      },
+
+      {
+        "spanish": "Vender",
+        "englishCorrect": "To sell",
+        "audio": "audio/vender.mp3",
+        "image": "images/vender.png",
+        "exceptions": ["Convencer", "Comprar", "Persuadir"]
+      },
+
+      {
+        "spanish": "Venir",
+        "englishCorrect": "To come",
+        "audio": "audio/venir.mp3",
+        "image": "images/venir.png",
+        "exceptions": ["Ir","Entrar"]
+      },
+      {
+        "spanish": "Ver",
+        "englishCorrect": "To see",
+        "audio": "audio/ver.mp3",
+        "image": "images/ver.png",
+        "exceptions": "Mirar"
+      },
+
+      {
+        "spanish": "Verter",
+        "englishCorrect": "To pour",
+        "audio": "audio/verter.mp3",
+        "image": "images/verter.png",
+        "exceptions": ["Explotar","Colmar","Rebosar"]
+      },
+
+      {
+        "spanish": "Viajar",
+        "englishCorrect": "To travel",
+        "audio": "audio/viajar.mp3",
+        "image": "images/viajar.png",
+        "exceptions": ["Volar", "Migrar"]
+      },
+
+      {
+        "spanish": "Vibrar",
+        "englishCorrect": "To vibrate",
+        "audio": "audio/vibrar.mp3",
+        "image": "images/vibrar.png",
+        "exceptions": "Sonar"
+        
+      },
+
+      {
+        "spanish": "Vivir",
+        "englishCorrect": "To live",
+        "audio": "audio/vivir.mp3",
+        "image": "images/vivir.png"
+      },
+
+
+      {
+        "spanish": "Volar",
+        "englishCorrect": "To fly",
+        "audio": "audio/volar.mp3",
+        "image": "images/volar.png"
+        
+      },
+
+      {
+        "spanish": "Volver",
+        "englishCorrect": "To return/go back",
+        "audio": "audio/volver.mp3",
+        "image": "images/volver.png",
+        "exceptions": ["Regresar", "Devolver"]
+        
+      },
+      {
+        "spanish": "Vomitar",
+        "englishCorrect": "To vomit",
+        "audio": "audio/vomitar.mp3",
+        "image": "images/vomitar.png"
+        
+      },
+
+      {
+        "spanish": "Votar",
+        "englishCorrect": "To vote",
+        "audio": "audio/votar.mp3",
+        "image": "images/votar.png",
+        "exceptions": "Hacer campaña"
+        
+      },
+
+      {
+        "spanish": "Zurcir",
+        "englishCorrect": "To buzz",
+        "audio": "audio/zurcir.mp3",
+        "image": "images/zurcir.png"
+        
+      }
+  ]
+  
