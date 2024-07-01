@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Linguimage/static/css/main.9625261c.css",
+    "main.js": "/Linguimage/static/js/main.673cdafb.js",
+    "static/js/453.8aff5060.chunk.js": "/Linguimage/static/js/453.8aff5060.chunk.js",
+    "static/media/background.mp3": "/Linguimage/static/media/background.744eeb5e3d3562455911.mp3",
+    "static/media/xsign.png": "/Linguimage/static/media/xsign.4beac060a20b2d89e97a.png",
+    "static/media/music-off.png": "/Linguimage/static/media/music-off.5ea4e117c65e7811f35d.png",
+    "static/media/speech-on.png": "/Linguimage/static/media/speech-on.36849ee59d41b4576acb.png",
+    "static/media/repeat.png": "/Linguimage/static/media/repeat.f62ec552567868f8d302.png",
+    "static/media/speech-off.png": "/Linguimage/static/media/speech-off.e346bd84e10fdd5c526c.png",
+    "static/media/right-ding.mp3": "/Linguimage/static/media/right-ding.d9dcbaf9cb2b6a1e0999.mp3",
+    "static/media/turtlebutton.png": "/Linguimage/static/media/turtlebutton.8d17692d8a3ede072e05.png",
+    "static/media/music-on.png": "/Linguimage/static/media/music-on.4d5c3790dc5f73b9b86d.png",
+    "static/media/wrong-ding.mp3": "/Linguimage/static/media/wrong-ding.63fa662f7c925b6afb0e.mp3",
+    "static/media/greentick.png": "/Linguimage/static/media/greentick.9b14df765de43b522558.png",
+    "index.html": "/Linguimage/index.html",
+    "main.9625261c.css.map": "/Linguimage/static/css/main.9625261c.css.map",
+    "main.673cdafb.js.map": "/Linguimage/static/js/main.673cdafb.js.map",
+    "453.8aff5060.chunk.js.map": "/Linguimage/static/js/453.8aff5060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9625261c.css",
+    "static/js/main.673cdafb.js"
+  ]
+}
