@@ -11,8 +11,8 @@ import speechOff from './images/speech-off.png';
 import musicOn from './images/music-on.png';
 import musicOff from './images/music-off.png';
 import backgroundMusic from './background.mp3';
-import rightDing from './right-ding.mp3'; // Import the right-ding sound
-import wrongDing from './wrong-ding.mp3'; // Import the wrong-ding sound
+import rightDing from './right-ding.mp3';
+import wrongDing from './wrong-ding.mp3';
 
 console.log('Number of verbs:', verbsData.length);
 
@@ -30,7 +30,6 @@ function App() {
   const [autoplayEnabled, setAutoplayEnabled] = useState(true);
   const [backgroundMusicEnabled, setBackgroundMusicEnabled] = useState(true);
   const [backgroundMusicVolume, setBackgroundMusicVolume] = useState(0.2); // 20% volume
-  const [playbackRate, setPlaybackRate] = useState(1); // Playback rate state
   const [achievementMessage, setAchievementMessage] = useState(''); // New state for achievement message
   const [buttonText, setButtonText] = useState('Start Game'); // State for button text
   const [clickedOptions, setClickedOptions] = useState([]); // New state for tracking clicked options
@@ -133,13 +132,7 @@ function App() {
 
     // Set the current audio file for the new round
     const audioElement = new Audio(verbObject.audio);
-    audioElement.playbackRate = playbackRate; // Set the playback rate
-    if (autoplayEnabled) {
-      audioElement.play().catch(error => {
-        console.error('Autoplay was prevented. Please click anywhere on the page to enable audio playback.');
-      });
-    }
-    audioRef.current = audioElement;
+    audioRef.current = audioElement; // Save the reference
   };
 
   const shuffleArray = (array) => {
@@ -227,20 +220,23 @@ function App() {
     });
   };
 
-  const repeatAudio = () => {
+  const playAudio = (rate) => {
     if (audioRef.current) {
-      audioRef.current.currentTime = 0;
-      audioRef.current.play();
+      const audioElement = new Audio(audioRef.current.src); // Create a new audio instance
+      audioElement.playbackRate = rate; // Set the playback rate
+      audioElement.currentTime = 0; // Reset to start
+      audioElement.play().catch(error => {
+        console.error('Autoplay was prevented. Please click anywhere on the page to enable audio playback.');
+      });
     }
   };
 
   const handleSlowReplay = () => {
-    setPlaybackRate(playbackRate === 1 ? 0.5 : 1);
-    if (audioRef.current) {
-      audioRef.current.playbackRate = playbackRate;
-      audioRef.current.currentTime = 0;
-      audioRef.current.play();
-    }
+    playAudio(0.5); // Slow speed
+  };
+
+  const handleRegularReplay = () => {
+    playAudio(1); // Normal speed
   };
 
   const toggleAutoplay = () => {
@@ -298,7 +294,7 @@ function App() {
             
             <div className="audio-menu">
               <div className="menu-item">
-                <img src={repeatIcon} alt="Replay Audio" onClick={repeatAudio} />
+                <img src={repeatIcon} alt="Replay Audio" onClick={handleRegularReplay} />
                 <p>Replay Verb</p>
               </div>
               <div className="menu-item">
@@ -307,17 +303,8 @@ function App() {
                   alt="Slow Replay"
                   onClick={handleSlowReplay}
                 />
-                <p>{playbackRate === 0.5 ? 'Slow Replay' : 'Regular Speed'}</p>
+                <p>Slow Replay</p>
               </div>
-              <div className="menu-item">
-                <img
-                  src={autoplayEnabled ? speechOn : speechOff}
-                  alt="Toggle Speech"
-                  onClick={toggleAutoplay}
-                />
-                <p>{autoplayEnabled ? 'Speech On' : 'Speech Off'}</p>
-              </div>
-              
               <div className="menu-item">
                 <img
                   src={backgroundMusicEnabled ? musicOn : musicOff}
