@@ -295,7 +295,7 @@ function App() {
             <div className="audio-menu">
               <div className="menu-item">
                 <img src={repeatIcon} alt="Replay Audio" onClick={handleRegularReplay} />
-                <p>Replay Verb</p>
+               
               </div>
               <div className="menu-item">
                 <img
